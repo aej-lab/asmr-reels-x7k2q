@@ -111,7 +111,14 @@ def set_thumbnail(token: str, video_id: str, thumb_path: str) -> None:
         )
     if r.status_code != 200:
         # No es fatal: el vídeo ya está subido.
-        print(f"Aviso: no se pudo poner la portada ({r.status_code}).")
+        try:
+            err = r.json().get("error", {})
+            detail = f"{err.get('message', '')} {[e.get('reason') for e in err.get('errors', [])]}"
+        except Exception:
+            detail = r.text[:300]
+        print(f"Aviso: no se pudo poner la portada ({r.status_code}): {detail}")
+    else:
+        print("Portada aplicada correctamente.")
 
 
 def sha256_of(path: str) -> str:
