@@ -1,0 +1,65 @@
+name: Subir Short a YouTube
+
+# Se dispara cuando se añade un archivo de cola en youtube/queue/*.json
+# (lo crea la tarea diaria junto al mp4). También se puede lanzar a mano.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "youtube/queue/*.json"
+  workflow_dispatch:
+    inputs:
+      manifest:
+        description: "Ruta del JSON de cola (p. ej. youtube/queue/2026-10-22.json)"
+        required: true
+
+concurrency:
+  group: youtube-upload
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Localizar manifiestos nuevos
+        id: find
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "files=${{ github.event.inputs.manifest }}" >> "$GITHUB_OUTPUT"
+          else
+            BEFORE="${{ github.event.before }}"
+            if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+              BEFORE="$(git rev-list --max-parents=0 HEAD | tail -n1)"
+            fi
+            FILES=$(git diff --name-only --diff-filter=A "$BEFORE" "${{ github.sha }}" -- 'youtube/queue/*.json' | tr '\n' ' ')
+            echo "files=$FILES" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Subir a YouTube
+        if: steps.find.outputs.files != ''
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          python3 -m pip install --quiet requests
+          for f in ${{ steps.find.outputs.files }}; do
+            python3 youtube/upload_short.py "$f"
+          done
+
+      - name: Guardar resultado (mover cola a done)
+        if: steps.find.outputs.files != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A youtube/
+          git diff --cached --quiet || git commit -m "youtube: subido ${{ steps.find.outputs.files }}"
+          git pull --rebase origin main
+          git push
