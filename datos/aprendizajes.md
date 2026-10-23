@@ -1,13 +1,14 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-23)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-23, 2ª ejecución)
 
-Insights de Instagram: disponibles (el token tiene permiso). Muestra: 7 Reels con más de 3 h de vida; 6 con más de 24 h.
+Insights de Instagram: disponibles (el token tiene permiso). Muestra: 8 Reels, 7 con más de 24 h (el de hoy por la mañana aún no).
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
 
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Fuegos artificiales y colores (química, Bonfire Night) | 2026-10-22 | 142 (alcance 131) | 0 | 0 | 0 |
-| Murciélagos boca abajo (animales, Halloween) | 2026-10-22 | **1.614** (alcance 1.204) | 1 | 1 | 0 |
+| Arañas y su tela pegajosa (animales, Halloween) | 2026-10-23 | 128 (alcance 109), <24 h | 0 | 0 | 0 |
+| Fuegos artificiales y colores (química, Bonfire Night) | 2026-10-22 | 143 (alcance 132) | 0 | 0 | 0 |
+| Murciélagos boca abajo (animales, Halloween) | 2026-10-22 | **1.617** (alcance 1.206) | 1 | 1 | 0 |
 | Cebolla y lágrimas (comida) | 2026-10-21 | 131 | 0 | 0 | 0 |
 | La hora que ocurre dos veces (cambio de hora) | 2026-10-21 | 138 | 1 | 0 | 0 |
 | Hojas de té en el centro al remover | 2026-10-21 | 161 | 0 | 0 | 1 |
@@ -15,14 +16,14 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 7 Reels co
 | Ilusión lunar | 2026-10-20 | 129 | 0 | 0 | 0 |
 
 ## Mejores / peores
-- Mejores: murciélagos (1.614, único con compartido y guardado), té (161), fuegos artificiales (142).
-- Peores: Orionidas (102), Luna (129), cebolla (131).
+- Mejores: murciélagos (1.617, único con compartido y guardado), té (161), fuegos artificiales (143).
+- Peores: Orionidas (102), arañas (128, aún <24 h), Luna (129).
 
 ## Patrones (hipótesis)
-- Animales + temporada Halloween: murciélagos = 10x el resto. Posible efecto de distribución puntual del algoritmo, pero es la única señal fuerte. Se repite la fórmula (animal con ángulo "creencia común falsa").
-- Fuegos artificiales (química/temporada) no repitió el efecto: lo que tiró fue animales, no solo la temporada.
-- Gancho tipo "X no es lo que crees" (murciélago no se agarra) funciona igual o mejor que la pregunta directa.
+- Murciélagos = 10x el resto, pero arañas (también animal + Halloween, gancho de pregunta) NO repitió: el efecto "animales" pierde fuerza; el murciélago parece un valor atípico (distribución puntual) o depende del gancho "X no es lo que crees".
+- Todos los demás se quedan en 100-160 visualizaciones: sin señal de categoría ni hora (publicaciones a las 07:56-17:59 UTC).
 - Duración (~29-35 s) y cierre en bucle iguales en todos: sin variación que comparar.
 
 ## Registro de decisiones
-- 2026-10-23: sin noticia científica clara (Luna llena 25-26 oct, ya cubierta la ilusión lunar). Aplicado 70/30 (día 70%): animales + Halloween tras el éxito de murciélagos; tema: por qué las arañas no se pegan en su tela.
+- 2026-10-23 (mañana): animales + Halloween tras murciélagos; tema arañas (resultado flojo hasta ahora).
+- 2026-10-23 (tarde): sin noticia científica clara; probar el gancho "no es lo que crees" FUERA de animales: niebla del hielo seco (Halloween).
