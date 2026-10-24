@@ -1,11 +1,12 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-24)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-24 tarde)
 
-Insights de Instagram: disponibles (el token tiene permiso). Muestra: 9 Reels, 8 con más de 24 h (el de ayer tarde aún no).
+Insights de Instagram: disponibles (el token tiene permiso). Muestra: 10 Reels, 8 con más de 24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
 
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Luna llena = un solo instante (espacio, actualidad) | 2026-10-24 | 119 (alcance 109), <24 h | 0 | 0 | 0 |
 | Niebla del hielo seco (química, Halloween) | 2026-10-23 tarde | 128 (alcance 106), <24 h | 0 | 0 | 0 |
 | Arañas y su tela pegajosa (animales, Halloween) | 2026-10-23 | 128 (alcance 109) | 0 | 0 | 0 |
 | Fuegos artificiales y colores (química, Bonfire Night) | 2026-10-22 tarde | 143 (alcance 132) | 0 | 0 | 0 |
@@ -27,3 +28,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 9 Reels, 8
 
 ## Registro de decisiones
 - 2026-10-24: noticia (Luna del Cazador, luna llena lun 26 oct 04:11 UTC) + hipótesis "gancho de dato extremo, sin pregunta".
+- 2026-10-24 tarde: cuerpo (piel de gallina, Halloween) + vídeo corto de 26 s (hipótesis: duración).

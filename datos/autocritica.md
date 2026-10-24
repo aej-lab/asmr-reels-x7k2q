@@ -15,8 +15,12 @@
 - 2026-10-23-2 | niebla del hielo seco (Halloween) | H: gancho "no es lo que crees" funciona fuera de animales | nota 7/10: ritmo algo lento en frase 2 (6 s), dibujos simples; sin whisper para verificar locución | resultado: 128 vis., 0 guardados a las ~16 h (pendiente 48 h).
 - 2026-10-24 | Luna llena = un solo instante (Luna del Cazador, noticia) | H: gancho de dato extremo sin pregunta + tema de actualidad rinde más | nota 7/10: escena del sol que se pone es breve y casi estática, varias escenas con poco movimiento, sin whisper (locución verificada con fonemas + silencedetect) | resultado: pendiente (48 h).
 
+- 2026-10-24-2 | piel de gallina (cuerpo, Halloween) | H: vídeo más corto (~26 s, 7 frases) retiene más | nota 7/10: dibujos esquemáticos y muy parecidos entre escenas, la portada deja pelos detrás del título, locución sin whisper (fonemas + silencedetect OK) | resultado: pendiente (48 h).
+
 ## (c) Experimentos
 - E1 "animales + gancho 'no es lo que crees' rinde más que el resto": 2 vídeos (murciélagos 1.617, arañas 128). Veredicto: datos insuficientes, tendiendo a refutada (efecto no repetido).
 - E2 "gancho 'no es lo que crees' fuera de animales": 1 vídeo (hielo seco), pendiente.
 - E3 "gancho de dato extremo sin pregunta + actualidad": 1 vídeo (Luna llena 24 oct), pendiente.
 - E2 actualizado: hielo seco 128 vis. a ~16 h, sin diferencia con el resto: tendiendo a refutada.
+- E4 "vídeo ~26 s rinde mejor que 30-36 s": 1 vídeo (piel de gallina 24 oct tarde), pendiente.
+- E3 actualizado: Luna llena 119 vis. a <24 h, sin mejora sobre el resto: tendiendo a refutada.
