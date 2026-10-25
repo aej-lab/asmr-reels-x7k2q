@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-24)
+# Autocrítica y mejora continua (actualizado 2026-10-25)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -16,6 +16,7 @@
 - 2026-10-24 | Luna llena = un solo instante (Luna del Cazador, noticia) | H: gancho de dato extremo sin pregunta + tema de actualidad rinde más | nota 7/10: escena del sol que se pone es breve y casi estática, varias escenas con poco movimiento, sin whisper (locución verificada con fonemas + silencedetect) | resultado: pendiente (48 h).
 
 - 2026-10-24-2 | piel de gallina (cuerpo, Halloween) | H: vídeo más corto (~26 s, 7 frases) retiene más | nota 7/10: dibujos esquemáticos y muy parecidos entre escenas, la portada deja pelos detrás del título, locución sin whisper (fonemas + silencedetect OK) | resultado: pendiente (48 h).
+- 2026-10-25 | calabaza = baya (comida/planta, Halloween) | H: voz más lenta y calmada (0,95 en vez de 1,05) rinde más retención | nota 7/10: dibujos sencillos, escena de pepinos/sandía pequeña, 27,9 s, sin whisper (fonemas + silencedetect OK; 'pepo' = pˈiːpoʊ) | resultado: pendiente (48 h).
 
 ## (c) Experimentos
 - E1 "animales + gancho 'no es lo que crees' rinde más que el resto": 2 vídeos (murciélagos 1.617, arañas 128). Veredicto: datos insuficientes, tendiendo a refutada (efecto no repetido).
@@ -24,3 +25,6 @@
 - E2 actualizado: hielo seco 128 vis. a ~16 h, sin diferencia con el resto: tendiendo a refutada.
 - E4 "vídeo ~26 s rinde mejor que 30-36 s": 1 vídeo (piel de gallina 24 oct tarde), pendiente.
 - E3 actualizado: Luna llena 119 vis. a <24 h, sin mejora sobre el resto: tendiendo a refutada.
+- E4 actualizado: piel de gallina 136 vis. a <24 h, sin mejora: tendiendo a refutada.
+- E5 "voz más lenta (0,95) rinde más que 1,05": 1 vídeo (calabaza 25 oct), pendiente.
+- Regla nueva: fotograma 0 con el elemento principal ya visible (tamaño inicial >=60 %), no a escala 0.
