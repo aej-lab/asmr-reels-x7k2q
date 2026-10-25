@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-25)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-25 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 11 Reels leídos, 9 con más de 24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,7 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 11 Reels l
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Calabaza = baya (comida, Halloween) | 2026-10-25 | <24 h, sin métricas aún | - | - | 0 |
 | Piel de gallina (cuerpo, Halloween) | 2026-10-24 tarde | 136 (alcance 118), <24 h | 0 | 0 | 0 |
 | Luna llena = un solo instante (espacio, actualidad) | 2026-10-24 | 124 (alcance 114) | 0 | 0 | 0 |
 | Niebla del hielo seco (química, Halloween) | 2026-10-23 tarde | 128 (alcance 106) | 0 | 0 | 0 |
@@ -29,3 +30,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 11 Reels l
 ## Registro de decisiones
 - 2026-10-24: noticia (Luna del Cazador) + gancho de dato extremo. 2026-10-24 tarde: cuerpo + vídeo corto 26 s.
 - 2026-10-25: comida/planta (calabaza = baya, Halloween) + voz más lenta (0,95) para probar el ritmo.
+- 2026-10-25 tarde: animales/Halloween (ojos de gato, tapetum) + cierre en pregunta abierta para probar comentarios. Métricas de 48 h sin cambios: todo sigue en 100-160 vis. salvo murciélagos.

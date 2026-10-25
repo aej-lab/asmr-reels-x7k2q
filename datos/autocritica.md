@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-25)
+# Autocrítica y mejora continua (actualizado 2026-10-25 tarde)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -17,6 +17,7 @@
 
 - 2026-10-24-2 | piel de gallina (cuerpo, Halloween) | H: vídeo más corto (~26 s, 7 frases) retiene más | nota 7/10: dibujos esquemáticos y muy parecidos entre escenas, la portada deja pelos detrás del título, locución sin whisper (fonemas + silencedetect OK) | resultado: pendiente (48 h).
 - 2026-10-25 | calabaza = baya (comida/planta, Halloween) | H: voz más lenta y calmada (0,95 en vez de 1,05) rinde más retención | nota 7/10: dibujos sencillos, escena de pepinos/sandía pequeña, 27,9 s, sin whisper (fonemas + silencedetect OK; 'pepo' = pˈiːpoʊ) | resultado: pendiente (48 h).
+- 2026-10-25-2 | ojos de gato no brillan (animal) | H: cierre en pregunta abierta ('whose light is it?') genera más comentarios/compartidos que el cierre en afirmación | nota 7/10: gato de la escena 5 simplón, escena de la bombilla algo genérica, sin whisper (fonemas + silencedetect OK), portada con ojos desplazados abajo para no tapar el título | resultado: pendiente (48 h).
 
 ## (c) Experimentos
 - E1 "animales + gancho 'no es lo que crees' rinde más que el resto": 2 vídeos (murciélagos 1.617, arañas 128). Veredicto: datos insuficientes, tendiendo a refutada (efecto no repetido).
@@ -28,3 +29,5 @@
 - E4 actualizado: piel de gallina 136 vis. a <24 h, sin mejora: tendiendo a refutada.
 - E5 "voz más lenta (0,95) rinde más que 1,05": 1 vídeo (calabaza 25 oct), pendiente.
 - Regla nueva: fotograma 0 con el elemento principal ya visible (tamaño inicial >=60 %), no a escala 0.
+- E6 "cierre en pregunta abierta aumenta comentarios/compartidos": 1 vídeo (ojos de gato 25 oct tarde), pendiente.
+- Regla nueva: en la portada, si el motivo principal cae en la zona del título (y 700-1200), desplazar el fondo (pad) para que el título no lo tape.
