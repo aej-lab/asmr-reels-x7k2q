@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-26)
+# Autocrítica y mejora continua (actualizado 2026-10-26 tarde)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -35,3 +35,6 @@
 - E7 "estilo visual con más movimiento/brillo rinde más": 1 vídeo (estrellas fugaces 26 oct), pendiente.
 - Regla nueva: nombres propios raros (Encke...) salen mal en kokoro: reescribir sin ellos.
 - E5 actualizado: calabaza 126 vis. a 48 h, sin mejora con voz 0,95: tendiendo a refutada. E6: ojos de gato 117 vis., 0 comentarios: tendiendo a refutada.
+- 2026-10-26-2 | glow sticks (quimioluminiscencia, Halloween) | H: ritmo más rápido (voz 1,15 vs 0,95-1,05) retiene más | nota 7/10: átomo/electrón muy esquemático, brillo frío vs cálido apenas se distingue, sin whisper (fonemas + silencedetect OK; 'dye','glow','reacts' verificados) | resultado: pendiente (48 h).
+- E8 "voz más rápida (1,15) rinde más que 0,95-1,05": 1 vídeo (glow sticks 26 oct tarde), pendiente. E7 estrellas fugaces (26 oct mañana): 119 vis. a <24 h, sin mejora: tendiendo a refutada.
+- Nota técnica: tts_gen.py acepta velocidad como 3.er argumento; check_overlaps/check_redundant no se usaron hoy (escenas sin texto).
