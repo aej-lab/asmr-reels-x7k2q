@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-25 tarde)
+# Autocrítica y mejora continua (actualizado 2026-10-26)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -31,3 +31,7 @@
 - Regla nueva: fotograma 0 con el elemento principal ya visible (tamaño inicial >=60 %), no a escala 0.
 - E6 "cierre en pregunta abierta aumenta comentarios/compartidos": 1 vídeo (ojos de gato 25 oct tarde), pendiente.
 - Regla nueva: en la portada, si el motivo principal cae en la zona del título (y 700-1200), desplazar el fondo (pad) para que el título no lo tape.
+- 2026-10-26 | estrellas fugaces = granos de arena (espacio, Táuridas/Halloween) | H: estilo visual con más movimiento (meteoros, partículas, brillos) retiene más | nota 7/10: escena de compresión del aire es abstracta (puntos), meteoros pequeños y poco brillo, 34,5 s, sin whisper (fonemas + silencedetect OK; 'Encke' sonaba 'enk-AY' y se reescribió la frase sin el nombre) | resultado: pendiente (48 h).
+- E7 "estilo visual con más movimiento/brillo rinde más": 1 vídeo (estrellas fugaces 26 oct), pendiente.
+- Regla nueva: nombres propios raros (Encke...) salen mal en kokoro: reescribir sin ellos.
+- E5 actualizado: calabaza 126 vis. a 48 h, sin mejora con voz 0,95: tendiendo a refutada. E6: ojos de gato 117 vis., 0 comentarios: tendiendo a refutada.
