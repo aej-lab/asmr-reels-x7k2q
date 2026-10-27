@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>ASMR Explains – TikTok authorization</title>
+<style>
+  body{font-family:system-ui,sans-serif;max-width:560px;margin:12vh auto;padding:0 20px;color:#222}
+  code{display:block;word-break:break-all;background:#f3f3f3;padding:12px;border-radius:8px;margin:12px 0}
+</style>
+</head>
+<body>
+<h1>ASMR Explains</h1>
+<p id="msg">Waiting for authorization…</p>
+<code id="code" hidden></code>
+<script>
+  var p = new URLSearchParams(location.search);
+  var code = p.get("code"), err = p.get("error_description") || p.get("error");
+  var msg = document.getElementById("msg"), box = document.getElementById("code");
+  if (code) {
+    msg.textContent = "Authorization received. Copy this code and paste it into the terminal:";
+    box.textContent = code; box.hidden = false;
+  } else if (err) {
+    msg.textContent = "Authorization failed: " + err;
+  } else {
+    msg.textContent = "No authorization code found in this URL.";
+  }
+</script>
+</body>
+</html>
