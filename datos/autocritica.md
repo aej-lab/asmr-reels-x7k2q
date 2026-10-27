@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-26 tarde)
+# Autocrítica y mejora continua (actualizado 2026-10-27)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -38,3 +38,6 @@
 - 2026-10-26-2 | glow sticks (quimioluminiscencia, Halloween) | H: ritmo más rápido (voz 1,15 vs 0,95-1,05) retiene más | nota 7/10: átomo/electrón muy esquemático, brillo frío vs cálido apenas se distingue, sin whisper (fonemas + silencedetect OK; 'dye','glow','reacts' verificados) | resultado: pendiente (48 h).
 - E8 "voz más rápida (1,15) rinde más que 0,95-1,05": 1 vídeo (glow sticks 26 oct tarde), pendiente. E7 estrellas fugaces (26 oct mañana): 119 vis. a <24 h, sin mejora: tendiendo a refutada.
 - Nota técnica: tts_gen.py acepta velocidad como 3.er argumento; check_overlaps/check_redundant no se usaron hoy (escenas sin texto).
+- 2026-10-27 | bostezo contagioso (cuerpo/psicología, atemporal, no Halloween) | H: gancho que interpela al espectador ("I bet you'll yawn...") + cierre-pregunta en bucle genera más compartidos/comentarios | nota 7/10: caras de dibujo muy esquemáticas (sin texto, bien), escena de la balanza sencilla, la escena del cerebro/termómetro dura poco, 27,9 s, sin whisper (fonemas + silencedetect OK; 'yawn','you'll','yours' verificados) | resultado: pendiente (48 h).
+- E9 "gancho que interpela al espectador + tema universal no estacional rinde más que los de dato/pregunta": 1 vídeo (bostezo 27 oct), pendiente. E8 glow sticks (voz 1,15): 112 vis. a <24 h, sin mejora: tendiendo a refutada.
+- Regla nueva: si el guion tiene N frases, N escenas exactas (hoy se corrigió un desfase al fusionar dos ideas en una frase: usar una escena con dos fases).
