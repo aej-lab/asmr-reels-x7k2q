@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-27)
+# Autocrítica y mejora continua (actualizado 2026-10-27, tarde)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -41,3 +41,6 @@
 - 2026-10-27 | bostezo contagioso (cuerpo/psicología, atemporal, no Halloween) | H: gancho que interpela al espectador ("I bet you'll yawn...") + cierre-pregunta en bucle genera más compartidos/comentarios | nota 7/10: caras de dibujo muy esquemáticas (sin texto, bien), escena de la balanza sencilla, la escena del cerebro/termómetro dura poco, 27,9 s, sin whisper (fonemas + silencedetect OK; 'yawn','you'll','yours' verificados) | resultado: pendiente (48 h).
 - E9 "gancho que interpela al espectador + tema universal no estacional rinde más que los de dato/pregunta": 1 vídeo (bostezo 27 oct), pendiente. E8 glow sticks (voz 1,15): 112 vis. a <24 h, sin mejora: tendiendo a refutada.
 - Regla nueva: si el guion tiene N frases, N escenas exactas (hoy se corrigió un desfase al fusionar dos ideas en una frase: usar una escena con dos fases).
+- 2026-10-27-2 | océano en la taza/caracola (física cotidiana, atemporal, mito) | H: gancho que pide una acción física inmediata ("Put a mug against your ear") retiene/comparte más que dato o pregunta | nota 7/10: cabeza y mano muy esquemáticas (la mano parece un puño), escenas de iconos de la habitación pequeñas, 27 s, sin whisper (fonemas + silencedetect OK; 'mug','ocean','hear','hollow','works' verificados) | resultado: pendiente (48 h).
+- E10 "gancho de acción física inmediata rinde más": 1 vídeo (taza 27 oct tarde), pendiente. E9 bostezo (27 oct mañana): sin insights aún (6 h).
+- Nota técnica: los scripts de Drive se bajan con download_file_content (base64) y se verifican por tamaño; portada: capturar con window.subs vacío, recortar el fondo sin la barra de progreso (último ~10 px) y colocar el motivo sobre la zona del título.

@@ -1,12 +1,13 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-27)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-27, tarde)
 
-Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15 Reels leídos, 13 con más de 24 h.
+Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15 Reels leídos, 13 con más de 24 h (bostezo 6 h y glow sticks 23 h aún sin insights).
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
 
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Glow sticks (química, Halloween) | 2026-10-26 tarde | 112 (alcance 105), <24 h | 0 | 0 | 0 |
+| Bostezo contagioso (cuerpo, atemporal) | 2026-10-27 | pendiente (6 h) | - | - | 0 |
+| Glow sticks (química, Halloween) | 2026-10-26 tarde | pendiente (23 h) | - | - | 0 |
 | Estrellas fugaces = arena (espacio) | 2026-10-26 | 119 (alcance 103) | 0 | 0 | 0 |
 | Ojos de gato reflejan (animales) | 2026-10-25 tarde | 117 (<48 h) | 0 | 0 | 0 |
 | Calabaza = baya (comida) | 2026-10-25 | 126 | 0 | 0 | 0 |
@@ -28,4 +29,5 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15 Reels l
 
 ## Registro de decisiones
 - 2026-10-24 a 26: noticia/Halloween + variables de duración, voz, cierre y estilo visual; ninguna mejora.
-- 2026-10-27: tema atemporal universal (bostezo contagioso, fuera de Halloween) + gancho que interpela al espectador ("apuesto a que bostezarás").
+- 2026-10-27 tarde: tema atemporal de física cotidiana (océano en la taza) + gancho que pide una acción física en los primeros 3 s.
+- 2026-10-27 mañana: tema atemporal universal (bostezo contagioso, fuera de Halloween) + gancho que interpela al espectador ("apuesto a que bostezarás").
