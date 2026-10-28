@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-27, tarde)
+# Autocrítica y mejora continua (actualizado 2026-10-28)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -44,3 +44,6 @@
 - 2026-10-27-2 | océano en la taza/caracola (física cotidiana, atemporal, mito) | H: gancho que pide una acción física inmediata ("Put a mug against your ear") retiene/comparte más que dato o pregunta | nota 7/10: cabeza y mano muy esquemáticas (la mano parece un puño), escenas de iconos de la habitación pequeñas, 27 s, sin whisper (fonemas + silencedetect OK; 'mug','ocean','hear','hollow','works' verificados) | resultado: pendiente (48 h).
 - E10 "gancho de acción física inmediata rinde más": 1 vídeo (taza 27 oct tarde), pendiente. E9 bostezo (27 oct mañana): sin insights aún (6 h).
 - Nota técnica: los scripts de Drive se bajan con download_file_content (base64) y se verifican por tamaño; portada: capturar con window.subs vacío, recortar el fondo sin la barra de progreso (último ~10 px) y colocar el motivo sobre la zona del título.
+- 2026-10-28 | búho gira la cabeza 270° (animales, atemporal, datos Johns Hopkins/Science 2013) | H: estructura problema→solución (paradoja: "debería cortar la sangre... pero") retiene/comparte más que lista de datos | nota 7/10: búho muy esquemático, cabeza del cuello (escena 4) pequeña, cierre algo repetitivo con el gancho, 32,5 s, sin whisper (fonemas + silencedetect OK; 'degrees','arteries','wider','blood' verificados) | resultado: pendiente (48 h).
+- E11 "estructura problema→solución rinde más que lista de datos": 1 vídeo (búho 28 oct), pendiente. E9 bostezo: 137 vis., 0 interacciones a 24 h: tendiendo a refutada. E10 taza: 140 vis. a <24 h, 3 interacciones (1 like extra), sin mejora clara de alcance. E8 glow sticks: 112 vis. (peor del lote).
+- Nota técnica: copiar base64 a mano corrompe ficheros (render.py salió 'outmp4'): verificar siempre por tamaño y `ast.parse`; check_overlaps/check_redundant no se usaron (escenas con solo contador/cifra).
