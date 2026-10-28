@@ -33,3 +33,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels;
 - 2026-10-27 tarde: tema atemporal de física cotidiana (océano en la taza) + gancho que pide una acción física en los primeros 3 s.
 - 2026-10-27 mañana: tema atemporal universal (bostezo contagioso, fuera de Halloween) + gancho que interpela al espectador ("apuesto a que bostezarás").
 - 2026-10-28: búho que gira la cabeza 270° (animales, atemporal) + estructura problema→solución. Sin noticia científica clara hoy ni en 3 días.
+- 2026-10-28 tarde: primer vídeo de tipo MORBO (hongo zombi en hormigas, categoría animales/parásitos); aún sin métricas por tipo.

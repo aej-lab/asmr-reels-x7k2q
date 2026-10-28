@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-28)
+# Autocrítica y mejora continua (actualizado 2026-10-28 tarde)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -47,3 +47,7 @@
 - 2026-10-28 | búho gira la cabeza 270° (animales, atemporal, datos Johns Hopkins/Science 2013) | H: estructura problema→solución (paradoja: "debería cortar la sangre... pero") retiene/comparte más que lista de datos | nota 7/10: búho muy esquemático, cabeza del cuello (escena 4) pequeña, cierre algo repetitivo con el gancho, 32,5 s, sin whisper (fonemas + silencedetect OK; 'degrees','arteries','wider','blood' verificados) | resultado: pendiente (48 h).
 - E11 "estructura problema→solución rinde más que lista de datos": 1 vídeo (búho 28 oct), pendiente. E9 bostezo: 137 vis., 0 interacciones a 24 h: tendiendo a refutada. E10 taza: 140 vis. a <24 h, 3 interacciones (1 like extra), sin mejora clara de alcance. E8 glow sticks: 112 vis. (peor del lote).
 - Nota técnica: copiar base64 a mano corrompe ficheros (render.py salió 'outmp4'): verificar siempre por tamaño y `ast.parse`; check_overlaps/check_redundant no se usaron (escenas con solo contador/cifra).
+- 2026-10-28-2 | [morbo] hongo zombi que controla una hormiga (parásitos; Penn State 2017 + Hughes) | H: tipo 'morbo científico' con gancho inquietante y voz calmada (1,0) rinde más alcance que ciencia general | nota 7/10: hormiga y estrings muy esquemáticos, escenas 3 y 5 con mucho espacio vacío bajo la hoja, 28,4 s, sin whisper (fonemas + silencedetect OK; 'puppeteer','ant's','bites','wraps','chose' verificados); sin cifras (la altura 25 cm no es universal) | resultado: pendiente (48 h).
+- E12 "morbo científico (oscuro pero calmado) rinde más que ciencia general": 1 vídeo (hormiga zombi 28 oct tarde), pendiente. Tipos a comparar: ciencia / morbo / dilema.
+- Regla nueva: el fotograma 0 de la escena 0 debe ignorar el fundido de entrada (en base.html: alpha=1 si i===0), si no el primer fotograma sale negro.
+- Nota técnica: usar /usr/bin/python3 (kokoro y playwright); read_file_content de Drive devuelve texto con escapes markdown (\_ \[ \<): hay que reescribir los scripts a mano.
