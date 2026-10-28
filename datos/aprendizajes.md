@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-28)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-28 noche)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,10 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Tranvía (dilema, 1.er vídeo de este tipo) | 2026-10-28 noche | pendiente | - | - | - |
+| Accidente ferroviario Urda (noticia, manual) | 2026-10-28 tarde | pendiente (<24 h) | - | - | - |
+| Hongo zombi en hormigas (morbo) | 2026-10-28 tarde | 134 (alcance 112, <24 h) | 0 | 0 | 0 |
+| Búho gira la cabeza (animales) | 2026-10-28 | 138 (alcance 114) | 0 | 0 | 0 |
 | Océano en la taza (física, atemporal) | 2026-10-27 tarde | 140 (alcance 113, <24 h) | 0 | 0 | 0 |
 | Bostezo contagioso (cuerpo, atemporal) | 2026-10-27 | 137 (alcance 111) | 0 | 0 | 0 |
 | Glow sticks (química, Halloween) | 2026-10-26 tarde | 112 (alcance 105) | 0 | 0 | 0 |
@@ -14,8 +18,6 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels;
 | Calabaza = baya (comida) | 2026-10-25 | 126 | 0 | 0 | 0 |
 | Piel de gallina (cuerpo) | 2026-10-24 tarde | 136 | 0 | 0 | 0 |
 | Luna llena = un instante (espacio) | 2026-10-24 | 124 | 0 | 0 | 0 |
-| Niebla del hielo seco (química) | 2026-10-23 tarde | 128 | 0 | 0 | 0 |
-| Arañas y su tela (animales) | 2026-10-23 | 128 | 0 | 0 | 0 |
 | Fuegos artificiales (química) | 2026-10-22 tarde | 143 (alcance 132) | 0 | 0 | 0 |
 | Murciélagos boca abajo (animales) | 2026-10-22 | **1.619** (alcance 1.208) | 1 | 1 | 0 |
 
@@ -34,3 +36,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels;
 - 2026-10-27 mañana: tema atemporal universal (bostezo contagioso, fuera de Halloween) + gancho que interpela al espectador ("apuesto a que bostezarás").
 - 2026-10-28: búho que gira la cabeza 270° (animales, atemporal) + estructura problema→solución. Sin noticia científica clara hoy ni en 3 días.
 - 2026-10-28 tarde: primer vídeo de tipo MORBO (hongo zombi en hormigas, categoría animales/parásitos); aún sin métricas por tipo.
+- 2026-10-28 noche: primer DILEMA (tranvía), hipótesis: formato dilema + pregunta A/B genera comentarios. Por tipo (ciencia/morbo/dilema) aún sin datos suficientes: todos en ~110-140 visualizaciones.
