@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-28 tarde)
+# Autocrítica y mejora continua (actualizado 2026-10-29)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -55,3 +55,7 @@
 - 2026-10-28-4 | [dilema] problema del tranvía (palanca vs empujar; Hauser et al. 2007 ~9/10 vs ~1/10, Greene 2001 fMRI; cifras confirmadas solo en fuentes secundarias, por eso 'about') | H: formato dilema neutral con cierre A/B genera más comentarios/compartidos que ciencia/morbo | nota 7/10: figuras muy esquemáticas, escena del puente (empujón) algo confusa, minis A/B de la última escena pequeños y pegados, 39 s, sin whisper (fonemas + silencedetect OK; 'pull','push','lever','fires','saved' verificados) | resultado: pendiente (48 h).
 - E13 "dilema neutral con pregunta A/B rinde más en comentarios/compartidos": 1 vídeo (tranvía 28 oct noche), pendiente. Hongo zombi (morbo): 134 vis. a <24 h, sin mejora sobre ciencia.
 - Nota técnica: scripts de Drive reescritos a mano desde read_file_content; portada: recortar 10 px inferiores (barra de progreso) antes de escalar; ffmpeg crop/pad para subir el motivo sobre la zona del título.
+- E13 actualizado: tranvía 118 vis., 1 interacción, sin mejora en comentarios: tendiendo a refutada. E11 búho 139 y E12 hongo zombi 135: sin diferencia.
+- 2026-10-29 | Newton se presionó el ojo y vio colores: fosfenos (cuerpo/visión, atemporal; fuentes Wikipedia, Duke Eye Center, Science Focus, AllAboutVision) | H: gancho con anécdota histórica de un personaje famoso (en vez de dato/pregunta/acción) retiene/comparte más | nota 7/10: dibujos esquemáticos (retina y cerebro simples), pincel del cerebro pequeño, escena 3 (presión) es un círculo con un dedo, 28,7 s, sin texto en pantalla, sin whisper (fonemas + silencedetect OK; 'pressed' pɹˈɛst, 'phosphenes' fˈɑːsfiːnz, 'rings','fire','paints' verificados) | resultado: pendiente (48 h).
+- E14 "gancho con anécdota histórica de personaje famoso rinde más": 1 vídeo (Newton 29 oct), pendiente.
+- Nota técnica: pip install de playwright en python se cuelga (proxy): usar node (`require('playwright')`) con render.js equivalente a render.py (preview/full) y cap.js para la portada; kokoro sí instala con pip. Portada: crop del fondo + pad (no crop mayor que la altura) para subir el motivo.

@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-28 noche)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-29)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,11 +6,11 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Tranvía (dilema, 1.er vídeo de este tipo) | 2026-10-28 noche | pendiente | - | - | - |
-| Accidente ferroviario Urda (noticia, manual) | 2026-10-28 tarde | pendiente (<24 h) | - | - | - |
-| Hongo zombi en hormigas (morbo) | 2026-10-28 tarde | 134 (alcance 112, <24 h) | 0 | 0 | 0 |
+| Tranvía (dilema) | 2026-10-28 noche | 118 (alcance 104) | 0 | 0 | 0 |
+| Accidente ferroviario Urda (noticia, manual) | 2026-10-28 tarde | 126 (alcance 110) | 0 | 0 | 0 |
+| Hongo zombi en hormigas (morbo) | 2026-10-28 tarde | 135 (alcance 113) | 0 | 0 | 0 |
 | Búho gira la cabeza (animales) | 2026-10-28 | 138 (alcance 114) | 0 | 0 | 0 |
-| Océano en la taza (física, atemporal) | 2026-10-27 tarde | 140 (alcance 113, <24 h) | 0 | 0 | 0 |
+| Océano en la taza (física, atemporal) | 2026-10-27 tarde | 140 (alcance 113) | 0 | 0 | 0 |
 | Bostezo contagioso (cuerpo, atemporal) | 2026-10-27 | 137 (alcance 111) | 0 | 0 | 0 |
 | Glow sticks (química, Halloween) | 2026-10-26 tarde | 112 (alcance 105) | 0 | 0 | 0 |
 | Estrellas fugaces = arena (espacio) | 2026-10-26 | 119 (alcance 103) | 0 | 0 | 0 |
@@ -37,3 +37,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels;
 - 2026-10-28: búho que gira la cabeza 270° (animales, atemporal) + estructura problema→solución. Sin noticia científica clara hoy ni en 3 días.
 - 2026-10-28 tarde: primer vídeo de tipo MORBO (hongo zombi en hormigas, categoría animales/parásitos); aún sin métricas por tipo.
 - 2026-10-28 noche: primer DILEMA (tranvía), hipótesis: formato dilema + pregunta A/B genera comentarios. Por tipo (ciencia/morbo/dilema) aún sin datos suficientes: todos en ~110-140 visualizaciones.
+- 2026-10-29: sin noticia científica clara (Halloween sáb. 31 sin evento astronómico); tema atemporal del cuerpo/visión (Newton y los fosfenos) + gancho con anécdota histórica de un personaje famoso. Dilema (118) y morbo (135) tampoco mueven el alcance: ciencia/morbo/dilema ~110-140.
