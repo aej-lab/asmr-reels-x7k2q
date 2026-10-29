@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-29)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-29 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,7 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Newton fosfenos (cuerpo) | 2026-10-29 | 122 (alcance 107) | 0 | 0 | 0 |
 | Tranvía (dilema) | 2026-10-28 noche | 118 (alcance 104) | 0 | 0 | 0 |
 | Accidente ferroviario Urda (noticia, manual) | 2026-10-28 tarde | 126 (alcance 110) | 0 | 0 | 0 |
 | Hongo zombi en hormigas (morbo) | 2026-10-28 tarde | 135 (alcance 113) | 0 | 0 | 0 |
@@ -38,3 +39,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels;
 - 2026-10-28 tarde: primer vídeo de tipo MORBO (hongo zombi en hormigas, categoría animales/parásitos); aún sin métricas por tipo.
 - 2026-10-28 noche: primer DILEMA (tranvía), hipótesis: formato dilema + pregunta A/B genera comentarios. Por tipo (ciencia/morbo/dilema) aún sin datos suficientes: todos en ~110-140 visualizaciones.
 - 2026-10-29: sin noticia científica clara (Halloween sáb. 31 sin evento astronómico); tema atemporal del cuerpo/visión (Newton y los fosfenos) + gancho con anécdota histórica de un personaje famoso. Dilema (118) y morbo (135) tampoco mueven el alcance: ciencia/morbo/dilema ~110-140.
+- 2026-10-29 tarde: MORBO nº2 (parálisis del sueño, categoría sueño, Halloween-friendly) + gancho en 2.ª persona con escena inquietante. Newton (122) sin mejora.
