@@ -44,3 +44,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-10-29 noche: DILEMA nº2 (ultimátum) + gancho con cifras concretas y cierre A/B hablado. Tranvía (dilema 1) con 118 vis. y 0 comentarios: sin diferencia por tipo.
 - 2026-10-30: sin noticia científica clara (Halloween sáb. 31, luna no llena); tema atemporal del cuerpo/tecnología (voz en grabaciones) + cierre que repite la 1.ª frase (bucle exacto). Parálisis (123) y ultimátum (129): sin diferencia.
 - 2026-10-30 tarde: MORBO nº3 (privación de sueño, cerebro) + estructura de cuenta atrás por horas con 0 texto salvo '264 h'. Voz grabada (bucle exacto) 151 vis.: el mejor de la semana tras murciélagos, pero dentro del ruido (110-150).
+- 2026-10-30 noche: DILEMA nº3 (dividir o robar, dilema del prisionero con datos de concurso real) en el motor 3D 2K; Contrails (primer 3D) publicado en IG/FB con retraso. Sin métricas aún del motor 3D vs 2D (comparar a las 48 h).

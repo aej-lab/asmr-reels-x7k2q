@@ -25,6 +25,8 @@
 
 - 2026-10-30-2 | [morbo] privación de sueño (Dawson & Reid, Nature 1997: 24 h despierto ≈ 0,10 % alcohol en pruebas de rendimiento; Randy Gardner 1964, 264 h; Discover) | H: estructura de cuenta atrás por tiempo (24 h → días → 11 días) con cierre-bucle 'It naps without you' | nota 7/10: figuras esquemáticas, escenas 4 y 5 algo vacías, portada con título tapando la mitad inferior del cerebro, 35,2 s | resultado: pendiente (48 h). Fonemas OK: 'does' dˈʌz, 'last' verbo lˈæst, 'record' sustantivo ɹˈɛkɚd, 'Guinness' ɡˈɪnɪs.
 
+- 2026-10-30-splitsteal | [dilema] dividir o robar (dilema del prisionero; Flood y Dresher, RAND 1950, nombre de Tucker; Van den Assem, Van Dolder y Thaler, Management Science 2012: 574 concursantes, ~53 % comparten, más con botes pequeños) | H: gancho con elección inmediata sin cifras + bucle exacto en pregunta (E19) | nota 7/10: figuras genéricas, suelo gris claro poco atractivo, escena de celdas poco legible, 38,8 s, primer motor 3D 2K | resultado: pendiente (48 h). Fonemas OK: 'split' verbo splˈɪt, 'posed' pˈoʊzd, 'prisoner's' pɹˈɪzənɚz; cifras escritas en letras.
+
 ## (c) Experimentos (todos con 1-2 vídeos y 100-140 vis.; ninguno confirmado)
 - E1 animales+'no es lo que crees', E2 mismo gancho fuera de animales, E3 dato extremo+actualidad, E4 vídeo ~26 s, E5 voz 0,95, E6 cierre pregunta abierta, E7 más movimiento visual, E8 voz 1,15, E9 gancho que interpela, E10 gancho acción física, E11 problema→solución, E13 dilema A/B: tendiendo a refutadas (sin diferencia de alcance).
 - E12 morbo (hongo zombi) 135 vis. y E14 anécdota histórica (Newton) 122: sin diferencia con ciencia general; por tipo ciencia/morbo/dilema todo ~110-140.
@@ -34,3 +36,4 @@
 - E18 estructura de cuenta atrás temporal (privación de sueño, 30 oct tarde): pendiente. Voz grabada (E17) 151 vis., sin diferencia clara.
 - Conclusión provisional: el alcance (~110-140) no depende de ninguna variable de contenido probada; probable cuello de botella de distribución (cuenta pequeña). No sobreajustar.
 - Notas técnicas: la letra 'A' hablada: usar 'eigh' en voz (subtítulo 'A'); tts_gen.py acepta clave "voice" en script.json para separar voz y subtítulos;  tts_gen.py acepta velocidad (3.er arg); portada: capturar con window.subs vacío, recortar 10 px inferiores (barra), crop+pad para subir el motivo sobre la zona del título; nombres raros (Encke) mal en kokoro: evitarlos.
+- E19 dilema #3 (dividir o robar) con elección binaria inmediata y bucle en la pregunta final (30 oct noche): pendiente. Entorno: python3 del sistema = /usr/bin/python3; playwright pip debe ser 1.63.0 (casa con chromium-1243); requests hay que instalarlo.
