@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-30)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-30 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,7 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Voz grabada (cuerpo, atemporal) | 2026-10-30 | 151 (alcance 119) | 0 | 0 | 0 |
 | Ultimátum (dilema) | 2026-10-29 noche | 129 (alcance 118) | 0 | 0 | 0 |
 | Parálisis del sueño (morbo) | 2026-10-29 tarde | 123 (alcance 113) | 0 | 1 | 0 |
 | Newton fosfenos (cuerpo) | 2026-10-29 | 122 (alcance 107) | 0 | 0 | 0 |
@@ -18,9 +19,7 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 | Glow sticks (química, Halloween) | 2026-10-26 tarde | 112 (alcance 105) | 0 | 0 | 0 |
 | Estrellas fugaces = arena (espacio) | 2026-10-26 | 119 (alcance 103) | 0 | 0 | 0 |
 | Ojos de gato reflejan (animales) | 2026-10-25 tarde | 117 (<48 h) | 0 | 0 | 0 |
-| Calabaza = baya (comida) | 2026-10-25 | 126 | 0 | 0 | 0 |
 | Piel de gallina (cuerpo) | 2026-10-24 tarde | 136 | 0 | 0 | 0 |
-| Luna llena = un instante (espacio) | 2026-10-24 | 124 | 0 | 0 | 0 |
 | Fuegos artificiales (química) | 2026-10-22 tarde | 143 (alcance 132) | 0 | 0 | 0 |
 | Murciélagos boca abajo (animales) | 2026-10-22 | **1.619** (alcance 1.208) | 1 | 1 | 0 |
 
@@ -44,3 +43,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-10-29 tarde: MORBO nº2 (parálisis del sueño, categoría sueño, Halloween-friendly) + gancho en 2.ª persona con escena inquietante. Newton (122) sin mejora.
 - 2026-10-29 noche: DILEMA nº2 (ultimátum) + gancho con cifras concretas y cierre A/B hablado. Tranvía (dilema 1) con 118 vis. y 0 comentarios: sin diferencia por tipo.
 - 2026-10-30: sin noticia científica clara (Halloween sáb. 31, luna no llena); tema atemporal del cuerpo/tecnología (voz en grabaciones) + cierre que repite la 1.ª frase (bucle exacto). Parálisis (123) y ultimátum (129): sin diferencia.
+- 2026-10-30 tarde: MORBO nº3 (privación de sueño, cerebro) + estructura de cuenta atrás por horas con 0 texto salvo '264 h'. Voz grabada (bucle exacto) 151 vis.: el mejor de la semana tras murciélagos, pero dentro del ruido (110-150).
