@@ -1,0 +1,55 @@
+{
+ "segs": [
+  {
+   "text": "That white line behind a plane is not smoke.",
+   "start": 0.35,
+   "end": 3.0978333333333334
+  },
+  {
+   "text": "It is a cloud, and the plane makes it by itself.",
+   "start": 3.3178333333333336,
+   "end": 6.273916666666667
+  },
+  {
+   "text": "Jet engines burn fuel, and the exhaust is full of hot water vapor.",
+   "start": 6.493916666666667,
+   "end": 11.10575
+  },
+  {
+   "text": "Up at cruising height, the air is colder than minus thirty degrees.",
+   "start": 11.32575,
+   "end": 15.371916666666666
+  },
+  {
+   "text": "The hot vapor meets that cold air and turns into tiny ice crystals.",
+   "start": 15.591916666666666,
+   "end": 20.28325
+  },
+  {
+   "text": "Specks of soot give the vapor something to cling to.",
+   "start": 20.50325,
+   "end": 23.662833333333335
+  },
+  {
+   "text": "In dry air, the ice vanishes in seconds.",
+   "start": 23.882833333333334,
+   "end": 26.6245
+  },
+  {
+   "text": "In humid air, the line can stay for hours and spread wide.",
+   "start": 26.8445,
+   "end": 30.652541666666668
+  },
+  {
+   "text": "A long trail means the air up there is full of moisture.",
+   "start": 30.872541666666667,
+   "end": 34.41525
+  },
+  {
+   "text": "So that white line is not smoke. It is a cloud.",
+   "start": 34.63525,
+   "end": 37.74341666666667
+  }
+ ],
+ "total": 38.46341666666667
+}
