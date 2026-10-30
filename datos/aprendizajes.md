@@ -1,12 +1,13 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-29 noche)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-30)
 
-Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels; todos con insights salvo los de <24 h.
+Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
 
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Parálisis del sueño (morbo) | 2026-10-29 tarde | <24 h | - | - | - |
+| Ultimátum (dilema) | 2026-10-29 noche | 129 (alcance 118) | 0 | 0 | 0 |
+| Parálisis del sueño (morbo) | 2026-10-29 tarde | 123 (alcance 113) | 0 | 1 | 0 |
 | Newton fosfenos (cuerpo) | 2026-10-29 | 122 (alcance 107) | 0 | 0 | 0 |
 | Tranvía (dilema) | 2026-10-28 noche | 118 (alcance 104) | 0 | 0 | 0 |
 | Accidente ferroviario Urda (noticia, manual) | 2026-10-28 tarde | 126 (alcance 110) | 0 | 0 | 0 |
@@ -42,3 +43,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 15+ Reels;
 - 2026-10-29: sin noticia científica clara (Halloween sáb. 31 sin evento astronómico); tema atemporal del cuerpo/visión (Newton y los fosfenos) + gancho con anécdota histórica de un personaje famoso. Dilema (118) y morbo (135) tampoco mueven el alcance: ciencia/morbo/dilema ~110-140.
 - 2026-10-29 tarde: MORBO nº2 (parálisis del sueño, categoría sueño, Halloween-friendly) + gancho en 2.ª persona con escena inquietante. Newton (122) sin mejora.
 - 2026-10-29 noche: DILEMA nº2 (ultimátum) + gancho con cifras concretas y cierre A/B hablado. Tranvía (dilema 1) con 118 vis. y 0 comentarios: sin diferencia por tipo.
+- 2026-10-30: sin noticia científica clara (Halloween sáb. 31, luna no llena); tema atemporal del cuerpo/tecnología (voz en grabaciones) + cierre que repite la 1.ª frase (bucle exacto). Parálisis (123) y ultimátum (129): sin diferencia.

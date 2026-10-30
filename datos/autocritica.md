@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-29 noche)
+# Autocrítica y mejora continua (actualizado 2026-10-30)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -21,10 +21,13 @@
 
 - 2026-10-29-3 | [dilema] juego del ultimátum (Güth 1982; <20 % rechazado ~50 %; ofertas típicas 40-50 %: imotions, Decision Lab, ScienceDirect) | H: gancho con cifras concretas en 2.ª persona ("$2 de $10") + cierre A/B hablado + voz 1,10 | nota 7/10: figuras genéricas, escenas 6 y 8 algo vacías, 39 s | resultado: pendiente (48 h). Fonemas OK: 'A'(artículo ɐ), 'eigh'→eɪ para la letra A, 'refuse' verbo, 'close' no usado.
 
+- 2026-10-30 | [atemporal] voz grabada vs voz propia (conducción ósea; Scientific American; Orepic et al. 2023 PMC9929504; evitado "más aguda" porque la literatura discrepa) | H: bucle exacto (última frase = primera) + gancho afirmación contraintuitiva, 0 texto en pantalla | nota 7/10: cabezas muy esquemáticas, mandíbula/cráneo del esqueleto poco pulido, 29,7 s | resultado: pendiente (48 h). Fonemas OK: 'heard' hˈɜːd, 'hears' hˈɪɹz, 'closer' klˈoʊsɚ (comparativo de 'close'), 'recording' sustantivo.
+
 ## (c) Experimentos (todos con 1-2 vídeos y 100-140 vis.; ninguno confirmado)
 - E1 animales+'no es lo que crees', E2 mismo gancho fuera de animales, E3 dato extremo+actualidad, E4 vídeo ~26 s, E5 voz 0,95, E6 cierre pregunta abierta, E7 más movimiento visual, E8 voz 1,15, E9 gancho que interpela, E10 gancho acción física, E11 problema→solución, E13 dilema A/B: tendiendo a refutadas (sin diferencia de alcance).
 - E12 morbo (hongo zombi) 135 vis. y E14 anécdota histórica (Newton) 122: sin diferencia con ciencia general; por tipo ciencia/morbo/dilema todo ~110-140.
 - E15 'gancho en 2.ª persona con escena inquietante' (parálisis del sueño 29 oct tarde): pendiente.
 - E16 dilema #2 con cifras concretas + A/B hablado (ultimátum, 29 oct noche): pendiente.
+- E17 bucle exacto (última frase repite la primera) + 0 texto en pantalla (voz propia, 30 oct): pendiente. 29 oct tarde (E15, 123 vis.) y noche (E16, 129 vis.): sin diferencia.
 - Conclusión provisional: el alcance (~110-140) no depende de ninguna variable de contenido probada; probable cuello de botella de distribución (cuenta pequeña). No sobreajustar.
 - Notas técnicas: la letra 'A' hablada: usar 'eigh' en voz (subtítulo 'A'); tts_gen.py acepta clave "voice" en script.json para separar voz y subtítulos;  tts_gen.py acepta velocidad (3.er arg); portada: capturar con window.subs vacío, recortar 10 px inferiores (barra), crop+pad para subir el motivo sobre la zona del título; nombres raros (Encke) mal en kokoro: evitarlos.
