@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-31)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-31 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,10 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Cielo azul (ciencia, 3D) | 2026-10-31 | 67 (alcance 63, <24 h) | 0 | 0 | 0 |
+| Split or steal (dilema, 3D) | 2026-10-30 noche | 181 (alcance 151) | 0 | 0 | 0 |
+| Contrails (3D, publicado tarde) | 2026-10-30 noche | 116 | 0 | 0 | 0 |
+| Privación de sueño (morbo) | 2026-10-30 tarde | 144 (alcance 114) | 0 | 1 | 0 |
 | Voz grabada (cuerpo, atemporal) | 2026-10-30 | 151 (alcance 119) | 0 | 0 | 0 |
 | Ultimátum (dilema) | 2026-10-29 noche | 129 (alcance 118) | 0 | 0 | 0 |
 | Parálisis del sueño (morbo) | 2026-10-29 tarde | 123 (alcance 113) | 0 | 1 | 0 |
@@ -47,3 +51,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-10-30 noche: DILEMA nº3 (dividir o robar, dilema del prisionero con datos de concurso real) en el motor 3D 2K; Contrails (primer 3D) publicado en IG/FB con retraso. Sin métricas aún del motor 3D vs 2D (comparar a las 48 h).
 - 2026-10-31: métricas 48 h: voz grabada 151 vis., privación de sueño 144 (1 compartido), split or steal 181 (alcance 151, el mejor tras murciélagos; primer vídeo 3D), contrails 3D 116 (publicado con retraso). Muestra aún insuficiente para decir 2D vs 3D.
 - 2026-10-31: CIENCIA nº(3D) cielo azul/atardecer rojo (dispersión de Rayleigh) en motor 3D 2K; gancho afirmación contraintuitiva + bucle exacto, tema atemporal (sin noticia astronómica verificable hoy; Halloween ya cubierto).
+- 2026-10-31 tarde: MORBO nº4 (curiosidad morbosa, Scrivner 2021; Halloween) en motor 3D 2K. Morbo (135, 124, 144) sigue en el rango 110-150, igual que ciencia y dilema.
