@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-30 tarde)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-31)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -45,3 +45,5 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-10-30: sin noticia científica clara (Halloween sáb. 31, luna no llena); tema atemporal del cuerpo/tecnología (voz en grabaciones) + cierre que repite la 1.ª frase (bucle exacto). Parálisis (123) y ultimátum (129): sin diferencia.
 - 2026-10-30 tarde: MORBO nº3 (privación de sueño, cerebro) + estructura de cuenta atrás por horas con 0 texto salvo '264 h'. Voz grabada (bucle exacto) 151 vis.: el mejor de la semana tras murciélagos, pero dentro del ruido (110-150).
 - 2026-10-30 noche: DILEMA nº3 (dividir o robar, dilema del prisionero con datos de concurso real) en el motor 3D 2K; Contrails (primer 3D) publicado en IG/FB con retraso. Sin métricas aún del motor 3D vs 2D (comparar a las 48 h).
+- 2026-10-31: métricas 48 h: voz grabada 151 vis., privación de sueño 144 (1 compartido), split or steal 181 (alcance 151, el mejor tras murciélagos; primer vídeo 3D), contrails 3D 116 (publicado con retraso). Muestra aún insuficiente para decir 2D vs 3D.
+- 2026-10-31: CIENCIA nº(3D) cielo azul/atardecer rojo (dispersión de Rayleigh) en motor 3D 2K; gancho afirmación contraintuitiva + bucle exacto, tema atemporal (sin noticia astronómica verificable hoy; Halloween ya cubierto).

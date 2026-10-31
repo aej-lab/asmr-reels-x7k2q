@@ -1,4 +1,4 @@
-# Autocrítica y mejora continua (actualizado 2026-10-30)
+# Autocrítica y mejora continua (actualizado 2026-10-31)
 
 ## (a) Reglas aprendidas
 - Revisar la pronunciación de heterónimos (lives, read, lead, wind, tear...) con los fonemas de kokoro antes de generar el audio.
@@ -27,6 +27,9 @@
 
 - 2026-10-30-splitsteal | [dilema] dividir o robar (dilema del prisionero; Flood y Dresher, RAND 1950, nombre de Tucker; Van den Assem, Van Dolder y Thaler, Management Science 2012: 574 concursantes, ~53 % comparten, más con botes pequeños) | H: gancho con elección inmediata sin cifras + bucle exacto en pregunta (E19) | nota 7/10: figuras genéricas, suelo gris claro poco atractivo, escena de celdas poco legible, 38,8 s, primer motor 3D 2K | resultado: pendiente (48 h). Fonemas OK: 'split' verbo splˈɪt, 'posed' pˈoʊzd, 'prisoner's' pɹˈɪzənɚz; cifras escritas en letras.
 
+- 2026-10-31 | [ciencia] por qué el cielo es azul y el atardecer rojo (Rayleigh 1/λ⁴; violeta menos presente en el sol y menos visible; fuentes: BigThink y consenso en varias webs) | H: motor 3D con explicación 100% visual (prisma, ondas, barras) + bucle exacto 'The sky is not actually blue.' | nota 7/10: hook algo lavado/blanco en la zona baja, figuras simples (persona cápsula), escena 7 (cuentas que pierden el azul) poco legible, render 14 min a 2K | resultado: pendiente (48 h). Fonemas OK: 'hides' haɪdz, 'bounced' baʊnst, 'violet' vaɪəlɪt; marca de agua en escenas 5 y 6 (sorteo).
+- Regla: en wmTag, comprobar que el decal no queda dentro de una esfera (depthTest lo oculta) ni bajo subtítulos; el render 2K con 4 núcleos tarda ~14 min.
+
 ## (c) Experimentos (todos con 1-2 vídeos y 100-140 vis.; ninguno confirmado)
 - E1 animales+'no es lo que crees', E2 mismo gancho fuera de animales, E3 dato extremo+actualidad, E4 vídeo ~26 s, E5 voz 0,95, E6 cierre pregunta abierta, E7 más movimiento visual, E8 voz 1,15, E9 gancho que interpela, E10 gancho acción física, E11 problema→solución, E13 dilema A/B: tendiendo a refutadas (sin diferencia de alcance).
 - E12 morbo (hongo zombi) 135 vis. y E14 anécdota histórica (Newton) 122: sin diferencia con ciencia general; por tipo ciencia/morbo/dilema todo ~110-140.
@@ -37,3 +40,4 @@
 - Conclusión provisional: el alcance (~110-140) no depende de ninguna variable de contenido probada; probable cuello de botella de distribución (cuenta pequeña). No sobreajustar.
 - Notas técnicas: la letra 'A' hablada: usar 'eigh' en voz (subtítulo 'A'); tts_gen.py acepta clave "voice" en script.json para separar voz y subtítulos;  tts_gen.py acepta velocidad (3.er arg); portada: capturar con window.subs vacío, recortar 10 px inferiores (barra), crop+pad para subir el motivo sobre la zona del título; nombres raros (Encke) mal en kokoro: evitarlos.
 - E19 dilema #3 (dividir o robar) con elección binaria inmediata y bucle en la pregunta final (30 oct noche): pendiente. Entorno: python3 del sistema = /usr/bin/python3; playwright pip debe ser 1.63.0 (casa con chromium-1243); requests hay que instalarlo.
+- E20 ciencia 3D 100% visual + bucle exacto (cielo azul, 31 oct): pendiente. Comparar con E19 split or steal (181 vis.).
