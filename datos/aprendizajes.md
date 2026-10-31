@@ -52,3 +52,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-10-31: métricas 48 h: voz grabada 151 vis., privación de sueño 144 (1 compartido), split or steal 181 (alcance 151, el mejor tras murciélagos; primer vídeo 3D), contrails 3D 116 (publicado con retraso). Muestra aún insuficiente para decir 2D vs 3D.
 - 2026-10-31: CIENCIA nº(3D) cielo azul/atardecer rojo (dispersión de Rayleigh) en motor 3D 2K; gancho afirmación contraintuitiva + bucle exacto, tema atemporal (sin noticia astronómica verificable hoy; Halloween ya cubierto).
 - 2026-10-31 tarde: MORBO nº4 (curiosidad morbosa, Scrivner 2021; Halloween) en motor 3D 2K. Morbo (135, 124, 144) sigue en el rango 110-150, igual que ciencia y dilema.
+- 2026-10-31 noche: DILEMA nº4 (Milgram, 3D 2K) con predicción vs realidad en cifras y bucle exacto; pendiente de métricas.

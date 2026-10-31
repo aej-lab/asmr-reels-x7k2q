@@ -32,6 +32,8 @@
 
 - 2026-10-31-2 | [morbo] curiosidad morbosa (Scrivner 2021, Personality and Individual Differences: Morbid Curiosity Scale 24 ítems, 4 factores, replicada en Heliyon 2023; prefieren películas con amenaza; rasgo estable 4-6 semanas) | H: gancho-pregunta idéntica al cierre (bucle exacto) en tipo morbo con ojo 3D, 0 texto | nota 7/10: ojo sin párpados algo plástico, cúpula descentrada, marca de agua escena 1 (puerta) poco contrastada, 38,9 s | resultado: pendiente (48 h). Fonemas OK: 'can't' kˈænt, 'urge' ˈɜːdʒ, 'questionnaire' kwˌɛstʃənˈɛɹ. Marca de agua en escenas 1 y 8.
 
+- 2026-10-31-3 | [dilema] experimento de Milgram (26/40 = 65 % hasta 450 V: Britannica, Simply Psychology; psiquiatras previeron <1 %: Yale Alumni Magazine; teléfono ~20 % y dos compañeros que se niegan ~10 %: fuentes secundarias, dicho como 'about one in five/ten'; críticas de Gina Perry sobre el guion) | H: gancho-pregunta + contraste predicción vs realidad con cifras y bucle exacto, voz 1,10, 11 escenas | nota 6/10: escena 7 (teléfono) solo muestra 3 de 5 figuras, escena 8 con las dos figuras que se niegan casi fuera de plano, escena 3 con pared de canto, portada con el panel descentrado, 39,6 s, render 2K 27 min con 4 núcleos | resultado: pendiente (48 h). Fonemas OK: 'pressed' pɹˈɛst, 'refused' ɹᵻfjˈuːzd, 'hurt', 'Yale' jˈeɪl. Marca de agua en escenas 4 y 5 (sorteo).
+
 ## (c) Experimentos (todos con 1-2 vídeos y 100-140 vis.; ninguno confirmado)
 - E1 animales+'no es lo que crees', E2 mismo gancho fuera de animales, E3 dato extremo+actualidad, E4 vídeo ~26 s, E5 voz 0,95, E6 cierre pregunta abierta, E7 más movimiento visual, E8 voz 1,15, E9 gancho que interpela, E10 gancho acción física, E11 problema→solución, E13 dilema A/B: tendiendo a refutadas (sin diferencia de alcance).
 - E12 morbo (hongo zombi) 135 vis. y E14 anécdota histórica (Newton) 122: sin diferencia con ciencia general; por tipo ciencia/morbo/dilema todo ~110-140.
@@ -44,3 +46,4 @@
 - E19 dilema #3 (dividir o robar) con elección binaria inmediata y bucle en la pregunta final (30 oct noche): pendiente. Entorno: python3 del sistema = /usr/bin/python3; playwright pip debe ser 1.63.0 (casa con chromium-1243); requests hay que instalarlo.
 - E20 ciencia 3D 100% visual + bucle exacto (cielo azul, 31 oct): pendiente. Comparar con E19 split or steal (181 vis.).
 - E21 morbo con bucle exacto + ojo 3D (curiosidad morbosa, 31 oct tarde): pendiente. Entorno: usar /usr/bin/python3 y `pip install playwright==1.63.0`; render 2K con 4 núcleos ~14 min.
+- E22 dilema #4 (Milgram) con contraste predicción-realidad en cifras + bucle exacto (31 oct noche): pendiente. Comparar con E19 (181 vis.).
