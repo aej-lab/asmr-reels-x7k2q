@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-01)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-01 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,9 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Milgram (dilema, 3D) | 2026-10-31 noche | **1.442** (alcance 1.131) | 0 | 0 | 0 |
+| Curiosidad morbosa (morbo, 3D) | 2026-10-31 tarde | 132 (alcance 118) | 0 | 0 | 0 |
+| Electricidad estática (ciencia, 3D) | 2026-11-01 | 132 (<24 h) | 0 | 0 | 0 |
 | Cielo azul (ciencia, 3D) | 2026-10-31 | 106 (alcance 99) | 0 | 0 | 0 |
 | Split or steal (dilema, 3D) | 2026-10-30 noche | 181 (alcance 151) | 0 | 0 | 0 |
 | Contrails (3D, publicado tarde) | 2026-10-30 noche | 116 | 0 | 0 | 0 |
@@ -28,7 +31,7 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 | Murciélagos boca abajo (animales) | 2026-10-22 | **1.619** (alcance 1.208) | 1 | 1 | 0 |
 
 ## Mejores / peores
-- Mejores: murciélagos (1.619, único con compartido y guardado), té (161), fuegos artificiales (143).
+- Mejores: murciélagos (1.619, único con compartido y guardado), Milgram (1.442, segundo valor atípico: dilema con contraste predicción vs realidad en cifras + bucle exacto; 0 interacciones), té (161), fuegos artificiales (143).
 - Peores: Orionidas (102), glow sticks (112), ojos de gato (117).
 
 ## Patrones (hipótesis)
@@ -54,3 +57,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-10-31 tarde: MORBO nº4 (curiosidad morbosa, Scrivner 2021; Halloween) en motor 3D 2K. Morbo (135, 124, 144) sigue en el rango 110-150, igual que ciencia y dilema.
 - 2026-10-31 noche: DILEMA nº4 (Milgram, 3D 2K) con predicción vs realidad en cifras y bucle exacto; pendiente de métricas.
 - 2026-11-01: métricas: cielo azul 106 vis., privación de sueño 146 (1 compartido), voz grabada 153, split or steal 183. Sin cambio de patrón (110-185). CIENCIA nº2 (3D): electricidad estática (puerta, invierno; tema estacional de tiempo seco) + paradoja gancho 'miles de voltios y no duele' + bucle exacto.
+- 2026-11-01 tarde: MORBO nº5 (mito: uñas y pelo siguen creciendo tras morir; gancho-pregunta + creencia común desmentida + bucle exacto, 3D). Milgram (1.442) es el 2.º atípico: hipótesis a probar, 'creencia popular vs realidad' con cifras/contraste.
