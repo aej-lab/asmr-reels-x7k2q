@@ -47,3 +47,6 @@
 - E20 ciencia 3D 100% visual + bucle exacto (cielo azul, 31 oct): pendiente. Comparar con E19 split or steal (181 vis.).
 - E21 morbo con bucle exacto + ojo 3D (curiosidad morbosa, 31 oct tarde): pendiente. Entorno: usar /usr/bin/python3 y `pip install playwright==1.63.0`; render 2K con 4 núcleos ~14 min.
 - E22 dilema #4 (Milgram) con contraste predicción-realidad en cifras + bucle exacto (31 oct noche): pendiente. Comparar con E19 (181 vis.).
+
+- 2026-11-01 | [ciencia] chispa de electricidad estática (puerta; electrones por rozamiento, aire seco, alta tensión pero energía mínima; fuentes: Dickson, físicas generales; cifra exacta de voltios evitada porque varía por fuente) | H: gancho-paradoja (miles de voltios pero inofensivo) + bucle exacto + 11 escenas en 3D 2K | nota 6/10: escenas de puerta con objetos geométricos simples, destello de chispa difícil de ver, tubo/escena 8 poco legible, 40 s | resultado: pendiente (48 h). Fonemas OK: 'charge' tʃˈɑːɹdʒ, 'lasts' lˈæsts, 'second' sˈɛkənd. Marca de agua en escenas 5 y 6 (sorteo).
+- E23 ciencia con paradoja gancho + bucle exacto (estática, 1 nov): pendiente. Entorno: pip playwright==1.63.0 hace falta cada sesión; audio_events 'glass'/'chime' requieren dur>=1.0.

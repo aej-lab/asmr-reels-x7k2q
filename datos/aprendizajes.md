@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-10-31 tarde)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-01)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,7 +6,7 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Cielo azul (ciencia, 3D) | 2026-10-31 | 67 (alcance 63, <24 h) | 0 | 0 | 0 |
+| Cielo azul (ciencia, 3D) | 2026-10-31 | 106 (alcance 99) | 0 | 0 | 0 |
 | Split or steal (dilema, 3D) | 2026-10-30 noche | 181 (alcance 151) | 0 | 0 | 0 |
 | Contrails (3D, publicado tarde) | 2026-10-30 noche | 116 | 0 | 0 | 0 |
 | Privación de sueño (morbo) | 2026-10-30 tarde | 144 (alcance 114) | 0 | 1 | 0 |
@@ -53,3 +53,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-10-31: CIENCIA nº(3D) cielo azul/atardecer rojo (dispersión de Rayleigh) en motor 3D 2K; gancho afirmación contraintuitiva + bucle exacto, tema atemporal (sin noticia astronómica verificable hoy; Halloween ya cubierto).
 - 2026-10-31 tarde: MORBO nº4 (curiosidad morbosa, Scrivner 2021; Halloween) en motor 3D 2K. Morbo (135, 124, 144) sigue en el rango 110-150, igual que ciencia y dilema.
 - 2026-10-31 noche: DILEMA nº4 (Milgram, 3D 2K) con predicción vs realidad en cifras y bucle exacto; pendiente de métricas.
+- 2026-11-01: métricas: cielo azul 106 vis., privación de sueño 146 (1 compartido), voz grabada 153, split or steal 183. Sin cambio de patrón (110-185). CIENCIA nº2 (3D): electricidad estática (puerta, invierno; tema estacional de tiempo seco) + paradoja gancho 'miles de voltios y no duele' + bucle exacto.
