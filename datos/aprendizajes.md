@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-02 tarde)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-02 noche)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
