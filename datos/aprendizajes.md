@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-03 mañana)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-03 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,8 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Nozick máquina de experiencias (dilema, 3D) | 2026-11-02 noche | **1.260** (alcance 996) | 0 | 0 | 0 |
+| Dying brain hears (morbo, 3D) | 2026-11-02 tarde | 194 (alcance 161) | 0 | 0 | 0 |
 | Milgram (dilema, 3D) | 2026-10-31 noche | **1.442** (alcance 1.131) | 0 | 0 | 0 |
 | Curiosidad morbosa (morbo, 3D) | 2026-10-31 tarde | 132 (alcance 118) | 0 | 0 | 0 |
 | Electricidad estática (ciencia, 3D) | 2026-11-01 | 132 (<24 h) | 0 | 0 | 0 |
@@ -61,3 +63,5 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-11-01 noche: DILEMA nº5 (efecto espectador, Darley & Latané; cuadrícula de 100 puntos 85/62/31 + bucle exacto) en 3D 2K, misma hipótesis que Milgram (contraste predicción vs realidad con cifras). Métricas de IG no refrescadas esta noche (ya actualizadas a las 11-01 tarde).
 - 2026-11-02 tarde: mareo (ciencia, 3D) 129 vis., 0 guardados; resto sin cambios (110-150 vis.). Milgram sigue siendo el único atípico (1.448). Elegido morbo: audición al final de la vida (Día de Difuntos, sin riesgo de suicidio).
 - 2026-11-03 mañana: métricas: Nozick (dilema, 19:32) 1.255 vis./996 alcance, 10 interacciones (3.er atípico, 2.º dilema seguido >1.000 junto a Milgram 1.448); morbo audición 178; mareo 129; efecto espectador 132. Los dos dilemas con contraste predicción-vs-realidad en cifras superan 10x la media; ciencia/morbo siguen en 110-180. Elegido ciencia cotidiana estacional (frío -> orinar).
+
+- 3 nov tarde: los dilemas nocturnos (Milgram 1.448, Nozick 1.260) siguen ~10x; morbo mejor = audición al morir (194). Ciencia/morbo de día: 108-135.
