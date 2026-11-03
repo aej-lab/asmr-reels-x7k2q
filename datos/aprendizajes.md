@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-02 noche)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-03 mañana)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -60,3 +60,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-11-01 tarde: MORBO nº5 (mito: uñas y pelo siguen creciendo tras morir; gancho-pregunta + creencia común desmentida + bucle exacto, 3D). Milgram (1.442) es el 2.º atípico: hipótesis a probar, 'creencia popular vs realidad' con cifras/contraste.
 - 2026-11-01 noche: DILEMA nº5 (efecto espectador, Darley & Latané; cuadrícula de 100 puntos 85/62/31 + bucle exacto) en 3D 2K, misma hipótesis que Milgram (contraste predicción vs realidad con cifras). Métricas de IG no refrescadas esta noche (ya actualizadas a las 11-01 tarde).
 - 2026-11-02 tarde: mareo (ciencia, 3D) 129 vis., 0 guardados; resto sin cambios (110-150 vis.). Milgram sigue siendo el único atípico (1.448). Elegido morbo: audición al final de la vida (Día de Difuntos, sin riesgo de suicidio).
+- 2026-11-03 mañana: métricas: Nozick (dilema, 19:32) 1.255 vis./996 alcance, 10 interacciones (3.er atípico, 2.º dilema seguido >1.000 junto a Milgram 1.448); morbo audición 178; mareo 129; efecto espectador 132. Los dos dilemas con contraste predicción-vs-realidad en cifras superan 10x la media; ciencia/morbo siguen en 110-180. Elegido ciencia cotidiana estacional (frío -> orinar).
