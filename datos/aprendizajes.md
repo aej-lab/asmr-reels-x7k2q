@@ -65,3 +65,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-11-03 mañana: métricas: Nozick (dilema, 19:32) 1.255 vis./996 alcance, 10 interacciones (3.er atípico, 2.º dilema seguido >1.000 junto a Milgram 1.448); morbo audición 178; mareo 129; efecto espectador 132. Los dos dilemas con contraste predicción-vs-realidad en cifras superan 10x la media; ciencia/morbo siguen en 110-180. Elegido ciencia cotidiana estacional (frío -> orinar).
 
 - 3 nov tarde: los dilemas nocturnos (Milgram 1.448, Nozick 1.260) siguen ~10x; morbo mejor = audición al morir (194). Ciencia/morbo de día: 108-135.
+- 3 nov noche: DILEMA nº7 (Stanford prison + críticas 2019, mito vs realidad) en 3D 2K; sin métricas nuevas refrescadas.
