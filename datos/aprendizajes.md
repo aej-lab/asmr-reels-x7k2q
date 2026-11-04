@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-03 tarde)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-04 mañana)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,8 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Jewel wasp (morbo animal, 3D) | 2026-11-03 tarde | **1.320** (alcance 1.059) | 0 | 1 | 0 |
+| Stanford prison (dilema, 3D) | 2026-11-03 noche | 157 (<24 h) | 0 | 0 | 0 |
 | Nozick máquina de experiencias (dilema, 3D) | 2026-11-02 noche | **1.260** (alcance 996) | 0 | 0 | 0 |
 | Dying brain hears (morbo, 3D) | 2026-11-02 tarde | 194 (alcance 161) | 0 | 0 | 0 |
 | Milgram (dilema, 3D) | 2026-10-31 noche | **1.442** (alcance 1.131) | 0 | 0 | 0 |
@@ -66,3 +68,5 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 
 - 3 nov tarde: los dilemas nocturnos (Milgram 1.448, Nozick 1.260) siguen ~10x; morbo mejor = audición al morir (194). Ciencia/morbo de día: 108-135.
 - 3 nov noche: DILEMA nº7 (Stanford prison + críticas 2019, mito vs realidad) en 3D 2K; sin métricas nuevas refrescadas.
+
+- 2026-11-04 mañana: métricas: avispa joya (morbo animal, 15:30 UTC) 1.320 vis./1.059 alcance, 9 interacciones: 4.º atípico y 1.er morbo >1.000 (3 de 4 atípicos recientes son 'dato extremo/perturbador con mecanismo claro'; Nozick, Milgram, avispa); frío-orina 124, mareo 129, uñas 130, estática 135. Hipótesis: los picos no dependen del tipo sino de la distribución del algoritmo (días de tarde/noche). Elegido ciencia cotidiana + actualidad: Bonfire Night (5 nov, Londres).
