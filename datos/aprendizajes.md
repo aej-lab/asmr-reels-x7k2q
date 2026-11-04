@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-04 mañana)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-04 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,10 +6,11 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Jewel wasp (morbo animal, 3D) | 2026-11-03 tarde | **1.320** (alcance 1.059) | 0 | 1 | 0 |
-| Stanford prison (dilema, 3D) | 2026-11-03 noche | 157 (<24 h) | 0 | 0 | 0 |
-| Nozick máquina de experiencias (dilema, 3D) | 2026-11-02 noche | **1.260** (alcance 996) | 0 | 0 | 0 |
-| Dying brain hears (morbo, 3D) | 2026-11-02 tarde | 194 (alcance 161) | 0 | 0 | 0 |
+| Hoguera cara/espalda (ciencia, 3D) | 2026-11-04 mañana | 140 (<24 h) | 0 | 0 | 0 |
+| Jewel wasp (morbo animal, 3D) | 2026-11-03 tarde | **1.324** (alcance 1.064) | 0 | 1 | 0 |
+| Stanford prison (dilema, 3D) | 2026-11-03 noche | 160 (alcance 146) | 0 | 0 | 0 |
+| Nozick máquina de experiencias (dilema, 3D) | 2026-11-02 noche | **1.264** (alcance 998) | 0 | 0 | 0 |
+| Dying brain hears (morbo, 3D) | 2026-11-02 tarde | 213 (alcance 177) | 0 | 0 | 0 |
 | Milgram (dilema, 3D) | 2026-10-31 noche | **1.442** (alcance 1.131) | 0 | 0 | 0 |
 | Curiosidad morbosa (morbo, 3D) | 2026-10-31 tarde | 132 (alcance 118) | 0 | 0 | 0 |
 | Electricidad estática (ciencia, 3D) | 2026-11-01 | 132 (<24 h) | 0 | 0 | 0 |
