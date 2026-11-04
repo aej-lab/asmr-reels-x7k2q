@@ -6,9 +6,10 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Hoguera cara/espalda (ciencia, 3D) | 2026-11-04 mañana | 140 (<24 h) | 0 | 0 | 0 |
+| Pez globo tetrodotoxina (morbo, 3D) | 2026-11-04 tarde | 139 (<24 h) | 0 | 0 | 1 |
+| Hoguera cara/espalda (ciencia, 3D) | 2026-11-04 mañana | 142 (<24 h) | 0 | 0 | 0 |
 | Jewel wasp (morbo animal, 3D) | 2026-11-03 tarde | **1.324** (alcance 1.064) | 0 | 1 | 0 |
-| Stanford prison (dilema, 3D) | 2026-11-03 noche | 160 (alcance 146) | 0 | 0 | 0 |
+| Stanford prison (dilema, 3D) | 2026-11-03 noche | 161 (alcance 148) | 0 | 0 | 0 |
 | Nozick máquina de experiencias (dilema, 3D) | 2026-11-02 noche | **1.264** (alcance 998) | 0 | 0 | 0 |
 | Dying brain hears (morbo, 3D) | 2026-11-02 tarde | 213 (alcance 177) | 0 | 0 | 0 |
 | Milgram (dilema, 3D) | 2026-10-31 noche | **1.442** (alcance 1.131) | 0 | 0 | 0 |
@@ -71,3 +72,5 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 3 nov noche: DILEMA nº7 (Stanford prison + críticas 2019, mito vs realidad) en 3D 2K; sin métricas nuevas refrescadas.
 
 - 2026-11-04 mañana: métricas: avispa joya (morbo animal, 15:30 UTC) 1.320 vis./1.059 alcance, 9 interacciones: 4.º atípico y 1.er morbo >1.000 (3 de 4 atípicos recientes son 'dato extremo/perturbador con mecanismo claro'; Nozick, Milgram, avispa); frío-orina 124, mareo 129, uñas 130, estática 135. Hipótesis: los picos no dependen del tipo sino de la distribución del algoritmo (días de tarde/noche). Elegido ciencia cotidiana + actualidad: Bonfire Night (5 nov, Londres).
+
+- 2026-11-04 noche: métricas: Stanford (dilema) 161 vis. a 24 h: los dilemas nocturnos ya no son siempre >1.000 (Milgram/Nozick sí, Stanford no); avispa 1.325. DILEMA nº8: velo de la ignorancia (Frohlich, Oppenheimer y Eavey 1987) con elección en 2.ª persona.
