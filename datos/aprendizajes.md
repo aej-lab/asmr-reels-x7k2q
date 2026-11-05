@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-04 tarde)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-05 mañana)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -74,3 +74,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-11-04 mañana: métricas: avispa joya (morbo animal, 15:30 UTC) 1.320 vis./1.059 alcance, 9 interacciones: 4.º atípico y 1.er morbo >1.000 (3 de 4 atípicos recientes son 'dato extremo/perturbador con mecanismo claro'; Nozick, Milgram, avispa); frío-orina 124, mareo 129, uñas 130, estática 135. Hipótesis: los picos no dependen del tipo sino de la distribución del algoritmo (días de tarde/noche). Elegido ciencia cotidiana + actualidad: Bonfire Night (5 nov, Londres).
 
 - 2026-11-04 noche: métricas: Stanford (dilema) 161 vis. a 24 h: los dilemas nocturnos ya no son siempre >1.000 (Milgram/Nozick sí, Stanford no); avispa 1.325. DILEMA nº8: velo de la ignorancia (Frohlich, Oppenheimer y Eavey 1987) con elección en 2.ª persona.
+- 2026-11-05: métricas: velo de la ignorancia 134, pez globo 139, hoguera 149, Stanford 161, avispa joya 1.325 (1 compartido), frío/orina 124. Valores atípicos (~1.300) siguen apareciendo 1 de cada ~6 vídeos sin patrón de tema; interacciones ~0. Hoy: ciencia mito-vs-realidad (meteoros) + Taurids.
