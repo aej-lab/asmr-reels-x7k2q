@@ -6,6 +6,7 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Velo de la ignorancia (dilema, 3D) | 2026-11-04 noche | 139 (alcance 118) | 0 | 0 | 0 |
 | Pez globo tetrodotoxina (morbo, 3D) | 2026-11-04 tarde | 139 (alcance 123) | 0 | 0 | 1 |
 | Hoguera cara/espalda (ciencia, 3D) | 2026-11-04 mañana | 151 (alcance 130) | 0 | 0 | 0 |
 | Jewel wasp (morbo animal, 3D) | 2026-11-03 tarde | **1.324** (alcance 1.064) | 0 | 1 | 0 |
