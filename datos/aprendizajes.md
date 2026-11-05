@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-05 mañana)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-05 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,8 +6,8 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Pez globo tetrodotoxina (morbo, 3D) | 2026-11-04 tarde | 139 (<24 h) | 0 | 0 | 1 |
-| Hoguera cara/espalda (ciencia, 3D) | 2026-11-04 mañana | 142 (<24 h) | 0 | 0 | 0 |
+| Pez globo tetrodotoxina (morbo, 3D) | 2026-11-04 tarde | 139 (alcance 123) | 0 | 0 | 1 |
+| Hoguera cara/espalda (ciencia, 3D) | 2026-11-04 mañana | 151 (alcance 130) | 0 | 0 | 0 |
 | Jewel wasp (morbo animal, 3D) | 2026-11-03 tarde | **1.324** (alcance 1.064) | 0 | 1 | 0 |
 | Stanford prison (dilema, 3D) | 2026-11-03 noche | 161 (alcance 148) | 0 | 0 | 0 |
 | Nozick máquina de experiencias (dilema, 3D) | 2026-11-02 noche | **1.264** (alcance 998) | 0 | 0 | 0 |
