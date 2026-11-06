@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-06 mañana)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-06 noche)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -78,3 +78,5 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-11-05: métricas: velo de la ignorancia 134, pez globo 139, hoguera 149, Stanford 161, avispa joya 1.325 (1 compartido), frío/orina 124. Valores atípicos (~1.300) siguen apareciendo 1 de cada ~6 vídeos sin patrón de tema; interacciones ~0. Hoy: ciencia mito-vs-realidad (meteoros) + Taurids.
 
 - 2026-11-06 mañana: métricas: Moral Machine 137, presencia sentida 131, meteoros 129, velo 140, pez globo 139, hoguera 151, Stanford 161, avispa joya 1.325 (único atípico reciente). Interacciones ~0; sin patrón nuevo.
+
+- 2026-11-06 noche: métricas: Toxoplasma (morbo) 165, niebla 123, Moral Machine 137, presencia sentida 131, meteoros 129, velo 140. Sin nuevos atípicos desde la avispa joya (1.325); interacciones ~0 (0 guardados). Por tipo sigue sin diferencia clara. Hoy DILEMA nº10: cartera perdida vacía vs con dinero (Cohn et al. 2019, Science).
