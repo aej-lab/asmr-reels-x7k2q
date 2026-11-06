@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-05 tarde)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-06 mañana)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -76,3 +76,5 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 
 - 2026-11-04 noche: métricas: Stanford (dilema) 161 vis. a 24 h: los dilemas nocturnos ya no son siempre >1.000 (Milgram/Nozick sí, Stanford no); avispa 1.325. DILEMA nº8: velo de la ignorancia (Frohlich, Oppenheimer y Eavey 1987) con elección en 2.ª persona.
 - 2026-11-05: métricas: velo de la ignorancia 134, pez globo 139, hoguera 149, Stanford 161, avispa joya 1.325 (1 compartido), frío/orina 124. Valores atípicos (~1.300) siguen apareciendo 1 de cada ~6 vídeos sin patrón de tema; interacciones ~0. Hoy: ciencia mito-vs-realidad (meteoros) + Taurids.
+
+- 2026-11-06 mañana: métricas: Moral Machine 137, presencia sentida 131, meteoros 129, velo 140, pez globo 139, hoguera 151, Stanford 161, avispa joya 1.325 (único atípico reciente). Interacciones ~0; sin patrón nuevo.
