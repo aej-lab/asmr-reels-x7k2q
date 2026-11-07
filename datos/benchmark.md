@@ -19,3 +19,12 @@ Fuentes: WebSearch (guías fluxnote.io de ideas para Shorts de ciencia 2026; art
 - Los temas de ciencia cotidiana (cuerpo, física doméstica, cocina) se citan como evergreen frente a lo estacional (fluxnote).
 - Demostraciones visuales y "oobleck/ferrofluido" se citan como formatos de alto interés visual (fluxnote): probar escenas con un fenómeno físico muy visual.
 - Idea nueva a probar: cierre que repite literalmente la primera frase como respuesta (bucle exacto), en uso el 30 oct.
+
+## Revisión semanal 2026-11-07
+Fuentes: WebSearch (blogs: dev.to/bulkdl hook engineering, clipspeed.ai, revid.ai 'anatomy of a viral short' 2026, postigniter, diapositivas IOCSS 2026 Univ. Porto sobre vídeos de ciencia). Sin métricas propias de otras cuentas; cifras de blogs sin metodología: hipótesis.
+- Los 1-3 primeros segundos deciden la retención (varias fuentes, sin método citado).
+- Apertura en pregunta: +22 % retención a 5 s según un informe citado por terceros (no verificado).
+- Subtítulos animados palabra a palabra en la mayoría de vídeos de alto rendimiento (ya los usamos).
+- Rango 31-60 s es el más común en educativos (revid.ai; mide cuota de subidas, no rendimiento): probar ~40 s.
+- Narrativa emocional/storytelling como motor en vídeos de ciencia (IOCSS 2026).
+Ideas a probar: (1) gancho-pregunta personal en vez de afirmación; (2) vídeo ~40-45 s con una mini-historia; (3) primera escena con movimiento y contraste muy alto desde el fotograma 0.

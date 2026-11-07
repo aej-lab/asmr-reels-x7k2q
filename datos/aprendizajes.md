@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-06 noche)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-07 mañana)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,12 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Carteras perdidas (dilema, 3D) | 2026-11-06 noche | 254 (alcance 214) | 0 | 0 | 0 |
+| Toxoplasma ratón (morbo, 3D) | 2026-11-06 tarde | 216 (alcance 183) | 0 | 0 | 0 |
+| Niebla cucharada (ciencia, 3D) | 2026-11-06 mañana | 123 (alcance 112) | 0 | 0 | 0 |
+| Moral Machine (dilema, 3D) | 2026-11-05 noche | 137 (alcance 117) | 0 | 0 | 0 |
+| Alguien detrás de ti (morbo, 3D) | 2026-11-05 tarde | 131 (alcance 111) | 0 | 0 | 0 |
+| Estrellas fugaces fricción (ciencia, 3D) | 2026-11-05 mañana | 129 (alcance 112) | 0 | 0 | 0 |
 | Velo de la ignorancia (dilema, 3D) | 2026-11-04 noche | 139 (alcance 118) | 0 | 0 | 0 |
 | Pez globo tetrodotoxina (morbo, 3D) | 2026-11-04 tarde | 139 (alcance 123) | 0 | 0 | 1 |
 | Hoguera cara/espalda (ciencia, 3D) | 2026-11-04 mañana | 151 (alcance 130) | 0 | 0 | 0 |
@@ -29,12 +35,6 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 | Hongo zombi en hormigas (morbo) | 2026-10-28 tarde | 135 (alcance 113) | 0 | 0 | 0 |
 | Búho gira la cabeza (animales) | 2026-10-28 | 138 (alcance 114) | 0 | 0 | 0 |
 | Océano en la taza (física, atemporal) | 2026-10-27 tarde | 140 (alcance 113) | 0 | 0 | 0 |
-| Bostezo contagioso (cuerpo, atemporal) | 2026-10-27 | 137 (alcance 111) | 0 | 0 | 0 |
-| Glow sticks (química, Halloween) | 2026-10-26 tarde | 112 (alcance 105) | 0 | 0 | 0 |
-| Estrellas fugaces = arena (espacio) | 2026-10-26 | 119 (alcance 103) | 0 | 0 | 0 |
-| Ojos de gato reflejan (animales) | 2026-10-25 tarde | 117 (<48 h) | 0 | 0 | 0 |
-| Piel de gallina (cuerpo) | 2026-10-24 tarde | 136 | 0 | 0 | 0 |
-| Fuegos artificiales (química) | 2026-10-22 tarde | 143 (alcance 132) | 0 | 0 | 0 |
 | Murciélagos boca abajo (animales) | 2026-10-22 | **1.619** (alcance 1.208) | 1 | 1 | 0 |
 
 ## Mejores / peores
@@ -80,3 +80,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-11-06 mañana: métricas: Moral Machine 137, presencia sentida 131, meteoros 129, velo 140, pez globo 139, hoguera 151, Stanford 161, avispa joya 1.325 (único atípico reciente). Interacciones ~0; sin patrón nuevo.
 
 - 2026-11-06 noche: métricas: Toxoplasma (morbo) 165, niebla 123, Moral Machine 137, presencia sentida 131, meteoros 129, velo 140. Sin nuevos atípicos desde la avispa joya (1.325); interacciones ~0 (0 guardados). Por tipo sigue sin diferencia clara. Hoy DILEMA nº10: cartera perdida vacía vs con dinero (Cohn et al. 2019, Science).
+- 2026-11-07: tras 3 días, los de 11-04 a 11-06 siguen en 123-254 vis.; solo avispa joya (1.325) y Nozick (1.264) y Milgram (1.442) superan 1.000. Sin guardados/compartidos casi nunca: cuello de botella = distribución.
