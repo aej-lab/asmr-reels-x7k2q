@@ -10,6 +10,7 @@
 - Python con playwright/Pillow: `/usr/bin/python3 -m pip install --break-system-packages playwright pillow numpy` (si falta); `PIL` del sistema falla, recortar/escalar portada con ffmpeg.
 - Contadores animados cuentan como "textos distintos" en check_redundant: usar la cifra final estática.
 
+- Regla (8/11/2026, petición de Valeria): la dicción debe sonar muy natural: guion hablado con contracciones, preguntas retóricas y ritmo variado, 72-88 palabras, voz v2 (0,97, pausas naturales) sin acelerar. Antes sonaba a robot (1,06-1,15 + pausas aplastadas + frases formales). Ver GUION HABLADO NATURAL.
 - Regla: los iconos clave (candado, interruptor...) deben ser grandes (>=100 px) y legibles; una cápsula vacía se lee como interruptor, no como cuerpo.
 - Entorno: render con node (`NODE_PATH=$(npm root -g) node render.js preview|full|nosubs`); python playwright no existe. Scripts de Drive: reescribir a mano desde read_file_content (base.html con fotograma 0 sin fundido).
 

@@ -1,4 +1,4 @@
-# ASMR Explains · instrucciones comunes de las 3 tareas diarias (v4, 2026-10-30)
+# ASMR Explains · instrucciones comunes de las 3 tareas diarias (v5, 2026-11-08: guion y voz más naturales)
 
 Estas instrucciones las siguen las tres tareas diarias (11.50 curiosidades de ciencia, 15.50 morbo científico, 19.50 dilemas morales; los horarios pueden cambiar). El bloque "TIPO DE VÍDEO" del mensaje de cada tarea MANDA sobre ELECCIÓN DEL TEMA y sobre el "Tema" de REGLAS DE VIRALIDAD; todo lo demás se aplica igual. Responde a Valeria en español de España (vive en Londres). Los vídeos son en inglés. OBJETIVO PRINCIPAL: viralidad (retención, compartidos y guardados); el sistema debe ir mejorando solo.
 
@@ -44,9 +44,23 @@ No repitas temas del registro, varía categorías y no hagas dos días seguidos 
 ## REGLAS DE VIRALIDAD
 - Tema: preguntas que mucha gente se ha hecho o que contradicen una creencia común, con "wow factor", relacionables con la vida diaria y fáciles de compartir. Varía categorías (cuerpo, espacio, física cotidiana, animales, tecnología, comida).
 - Gancho: la primera frase (2-3 s) crea curiosidad inmediata o suelta un dato sorprendente, SIN saludos. La primera escena debe ser llamativa desde el fotograma 0.
-- Duración 25-40 s. Una idea por frase (9-12 frases cortas), ritmo constante, sin relleno.
+- Duración 25-40 s. Una idea por frase (9-11 frases), SIN relleno. Presupuesto de palabras: 72-88 en total (la voz v2 va más pausada: 90 palabras ya dan ~38 s). Ritmo variado, no constante: ver GUION HABLADO NATURAL.
 - Final con bucle: la última frase conecta con la primera. NO pongas tarjeta final con texto; el "follow" va en el texto del post.
 - Datos reales y verificables, sin cifras inventadas ni consejos médicos.
+
+## GUION HABLADO NATURAL (obligatorio; Valeria pide que la dicción suene MUCHO más natural, 8/11/2026)
+El guion se escribe para el OÍDO, no para leerse: debe sonar como una persona que te cuenta algo curioso en voz baja. Antes de generar la voz, léelo en voz alta mentalmente y reescribe todo lo que suene a texto de enciclopedia o a robot.
+1) Contracciones SIEMPRE: it's, that's, doesn't, can't, you're, they've, here's, there's. Nunca "It is", "does not", "cannot" (salvo énfasis deliberado, máx. una vez).
+2) Habla al espectador: "you", "your", "imagine…", "ever noticed…?". Una pregunta retórica corta a mitad o al inicio vale más que una afirmación seca ("That white line? It's not smoke.").
+3) Ritmo variado: mezcla frases de 3-6 palabras con otras de 10-14; nunca 3 frases seguidas con la misma longitud ni con el mismo arranque ("It is… It is… It is…"). Una frase corta tras una larga da golpe de efecto.
+4) Frases sencillas, un solo verbo principal, sin subordinadas encadenadas ni paréntesis, sin palabras de manual ("approximately", "utilize", "subsequently", "furthermore"). Usa "about", "use", "then", "so", "but", "turns out".
+5) Conectores orales con moderación (1-3 por vídeo): "So", "But", "Turns out", "Here's the catch", "And that's why". Nada de "In conclusion".
+6) La puntuación ES la entonación en Kokoro: la coma da un respiro corto, el punto cierra con caída, "?" sube la entonación, "—" o "..." solo una vez por vídeo como pausa dramática. Pon las comas donde una persona respiraría. Evita frases de menos de 3 palabras sueltas (la voz las dice planas); mejor encadénalas con la anterior o amplíalas a 4+ palabras.
+7) Números y cifras dichos como se hablan, sin símbolos: "about thirty percent", "one in five", "twenty twenty-six"; nada de "%", "°C", "km/h", "~", siglas ni abreviaturas en el texto de voz. Máximo 2 cifras por frase. Cifras redondas y aproximaciones ("about", "nearly") salvo que el dato exacto sea el gancho.
+8) Sin listas habladas largas (más de 3 elementos) ni nombres propios difíciles; si hay un nombre raro, quítalo o usa la clave "voice" (ver abajo).
+9) Prueba de naturalidad antes de seguir, por cada frase: ¿lo diría así alguien en una conversación? ¿Se puede decir de un tirón sin quedarse sin aire? Si no, parte la frase o simplifícala. Anota en la línea final: "Guion natural: sí (contracciones N, preguntas retóricas N, frases ≤6 palabras N)".
+VOZ (motor3d/tts_gen.py v2): por defecto velocidad 0,97, que ajusta sola cada frase (cortas y preguntas más pausadas, largas algo más ágiles), conserva las pausas naturales y pone pausas entre frases según el signo final. Llámalo SIN tercer argumento (python3 $M/tts_gen.py $W/script.json $W). NO subas la velocidad para encajar en duración: recorta palabras del guion. La velocidad 1,06-1,15 usada hasta el 7/11 sonaba acelerada y plana y queda descartada; solo se puede probar un valor distinto si es una hipótesis anotada en autocrítica y nunca por encima de 1,02. Si una palabra necesita otra grafía solo para la voz, añade en script.json la lista opcional "voice" (misma longitud que "segments"; null o "" = igual que el subtítulo). Si aun así falla, fonemas directos.
+AUTOCRÍTICA DE LOCUCIÓN: tras generar voice.wav, comprueba con ffmpeg silencedetect (noise=-35dB:d=0.25) que las pausas caen en comas y finales de frase y que no hay palabras comidas; revisa que la duración total del audio esté entre 27 y 38 s. Si pasa de 38 s, recorta palabras del guion y regenera (no aceleres la voz).
 
 ## TEXTOS EN PANTALLA
 Valeria detesta los textos redundantes. En el motor 3D las escenas NO llevan ningún texto: solo los subtítulos (los dibuja el motor) y la marca de agua integrada. Explica con modelos, movimiento, color y símbolos. Si una cifra o unidad que cuenta es imprescindible, usa un sprite pequeño fuera de la zona de subtítulos y nunca repitas lo que dice la voz.
@@ -57,6 +71,7 @@ La voz sintética (kokoro) se equivoca con palabras ambiguas ("A spider lives in
 2) Comprueba los fonemas reales con el mismo fonemizador de kokoro-onnx (kokoro_onnx.Tokenizer().phonemize(texto, lang) con el mismo idioma que tts_gen.py, o espeak-ng -q --ipa) y verifica palabra por palabra las de riesgo (p. ej. "lives" verbo = lɪvz; plural = laɪvz).
 3) Si alguna sale mal: (a) reescribe la frase para evitar la ambigüedad; (b) texto de voz con grafía alternativa manteniendo la ortografía correcta en subtítulos; (c) fonemas directos (is_phonemes=True). Vuelve a generar y comprobar.
 4) Revisa el audio generado: ffprobe/ffmpeg silencedetect (sin cortes, silencios largos ni palabras comidas) y, si hay faster-whisper sin instalaciones pesadas, transcribe y compara con el guion.
+4b) Con contracciones (it's, that's, can't, you're…) comprueba que los fonemas salen bien (it's = ɪts, that's = ðæts, can't = kænt) y que "it's" no se lee como "its" en frases raras.
 5) Si tras 2 intentos una palabra sigue dudosa, reescribe la frase sin ella. No se publica con pronunciación dudosa.
 6) En la línea final añade: "Locución revisada: sí/no", con las palabras de riesgo y cómo se resolvió cada una.
 
