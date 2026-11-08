@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-08 mañana)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-08 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,8 +6,9 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Asch conformidad (dilema, 3D) | 2026-11-07 noche | 197 (<24 h) | 0 | 0 | 0 |
-| Plaga de baile 1518 (morbo, 3D) | 2026-11-07 tarde | 209 | 0 | 1 | 0 |
+| Hojas de otoño (ciencia, 3D) | 2026-11-08 mañana | 189 (<24 h) | 0 | 0 | 0 |
+| Asch conformidad (dilema, 3D) | 2026-11-07 noche | 200 | 0 | 0 | 0 |
+| Plaga de baile 1518 (morbo, 3D) | 2026-11-07 tarde | 210 | 0 | 1 | 0 |
 | **Olor de la lluvia / petricor (ciencia, 3D)** | 2026-11-07 mañana | **1.245** (alcance 1.033) | 1 | 1 | 14 likes, 16 interacciones |
 | Carteras perdidas (dilema, 3D) | 2026-11-06 noche | 254 (alcance 214) | 0 | 0 | 0 |
 | Toxoplasma ratón (morbo, 3D) | 2026-11-06 tarde | 216 (alcance 183) | 0 | 0 | 0 |
