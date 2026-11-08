@@ -86,3 +86,5 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 
 - 2026-11-06 noche: métricas: Toxoplasma (morbo) 165, niebla 123, Moral Machine 137, presencia sentida 131, meteoros 129, velo 140. Sin nuevos atípicos desde la avispa joya (1.325); interacciones ~0 (0 guardados). Por tipo sigue sin diferencia clara. Hoy DILEMA nº10: cartera perdida vacía vs con dinero (Cohn et al. 2019, Science).
 - 2026-11-07: tras 3 días, los de 11-04 a 11-06 siguen en 123-254 vis.; solo avispa joya (1.325) y Nozick (1.264) y Milgram (1.442) superan 1.000. Sin guardados/compartidos casi nunca: cuello de botella = distribución.
+
+- 2026-11-08 noche: métricas refrescadas (Asch 200, Nozick 1.264, Stanford 161). Hoy DILEMA nº12: Giges + ojos vigilantes (Bateson 2006). Sin cambio de patrón; interacciones ~0.
