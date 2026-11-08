@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-07 mañana)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-08 mañana)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,6 +6,9 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
+| Asch conformidad (dilema, 3D) | 2026-11-07 noche | 197 (<24 h) | 0 | 0 | 0 |
+| Plaga de baile 1518 (morbo, 3D) | 2026-11-07 tarde | 209 | 0 | 1 | 0 |
+| **Olor de la lluvia / petricor (ciencia, 3D)** | 2026-11-07 mañana | **1.245** (alcance 1.033) | 1 | 1 | 14 likes, 16 interacciones |
 | Carteras perdidas (dilema, 3D) | 2026-11-06 noche | 254 (alcance 214) | 0 | 0 | 0 |
 | Toxoplasma ratón (morbo, 3D) | 2026-11-06 tarde | 216 (alcance 183) | 0 | 0 | 0 |
 | Niebla cucharada (ciencia, 3D) | 2026-11-06 mañana | 123 (alcance 112) | 0 | 0 | 0 |
@@ -42,6 +45,7 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - Peores: Orionidas (102), glow sticks (112), ojos de gato (117).
 
 ## Patrones (hipótesis)
+- 8/11: petricor (ciencia cotidiana sensorial, gancho 'X no huele a nada, entonces ¿qué es?') = 5.º atípico (1.245, 16 interacciones, el mejor de ciencia). Hipótesis: fenómeno sensorial cotidiano + gancho de contradicción. Hoy se prueba con hojas de otoño (colores ocultos).
 - Murciélagos = 10x el resto: valor atípico, no un patrón de categoría ni de gancho.
 - El resto se mueve en 100-160 visualizaciones sin señal de categoría, hora (07:56-18:49 UTC), duración (26-36 s), velocidad de voz (0,95-1,15), cierre ni estilo visual: todas las variables probadas hasta ahora no han movido el alcance.
 - Interacciones casi nulas: el cuello de botella parece la distribución (alcance), no solo el contenido. Falta probar ganchos que impliquen al espectador y temas no estacionales.
