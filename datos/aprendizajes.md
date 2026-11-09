@@ -1,4 +1,5 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-09 tarde)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-09 noche)
+Nota 9/11 noche: Reel de la 1.ª hora tras morir (tarde) <24 h, 1 like; aún sin insights. Hoy: subasta del dólar (dilema).
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
