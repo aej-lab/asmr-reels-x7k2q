@@ -1,4 +1,4 @@
-# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-08 tarde)
+# Aprendizajes de la cuenta @asmr_explains (actualizado 2026-11-09 tarde)
 
 Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels; todos con insights salvo los de <24 h.
 **Muestra aún pequeña: los patrones son hipótesis, no conclusiones.**
@@ -6,9 +6,10 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Giges/ojos (dilema, 3D) | 2026-11-08 noche | <24 h | 0 | 0 | 0 |
-| Lázaro (morbo, 3D) | 2026-11-08 tarde | 804 | 0 | 0 | 0 |
-| Hojas de otoño (ciencia, 3D) | 2026-11-08 mañana | 283 | 0 | 0 | 0 |
+| Estornudo fótico (ciencia, 3D) | 2026-11-09 mañana | **1.216** (alcance 1.076; <24 h) | 0 | 1 | 0 (19 likes) |
+| Giges/ojos (dilema, 3D) | 2026-11-08 noche | **1.259** (alcance 1.046) | 1 | 0 | 0 |
+| Lázaro (morbo, 3D) | 2026-11-08 tarde | **1.032** (alcance 884) | 0 | 0 | 0 |
+| Hojas de otoño (ciencia, 3D) | 2026-11-08 mañana | 288 | 0 | 0 | 0 |
 | Asch conformidad (dilema, 3D) | 2026-11-07 noche | 205 | 0 | 0 | 0 |
 | Plaga de baile 1518 (morbo, 3D) | 2026-11-07 tarde | 210 | 0 | 1 | 0 |
 | **Olor de la lluvia / petricor (ciencia, 3D)** | 2026-11-07 mañana | **1.256** (alcance 1.049) | 1 | 1 | 14 likes, 16 interacciones |
@@ -92,3 +93,4 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-11-08 noche: métricas refrescadas (Asch 200, Nozick 1.264, Stanford 161). Hoy DILEMA nº12: Giges + ojos vigilantes (Bateson 2006). Sin cambio de patrón; interacciones ~0.
 
 - 2026-11-09 mañana: métricas: Lázaro (morbo) 804 vis. a 24 h (2.º morbo >700 tras avispa joya), hojas de otoño 283, plaga de baile 210, Asch 205; petricor sigue siendo el mejor de ciencia (1.256, 14 likes). Hoy CIENCIA: estornudo por luz solar (reflejo fótico), gancho-pregunta que interpela + cierre en bucle exacto.
+- 2026-11-09 tarde: métricas a 24 h: Giges 1.259, Lázaro 1.032, estornudo fótico 1.216 (<24 h), petricor 1.257; hojas 288, plaga de baile 210. Ya hay 8 valores >1.000 (patrón: ~1 de cada 3-4 vídeos recientes sale 'atípico' sin relación clara con categoría). Hoy MORBO: primera hora tras morir (timeline con anillo de reloj, 0 texto).
