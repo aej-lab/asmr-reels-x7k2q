@@ -6,10 +6,12 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 ## Últimos Reels (los más recientes primero)
 | Tema | Fecha | Visualizaciones | Guardados | Compartidos | Comentarios |
 |---|---|---|---|---|---|
-| Hojas de otoño (ciencia, 3D) | 2026-11-08 mañana | 189 (<24 h) | 0 | 0 | 0 |
-| Asch conformidad (dilema, 3D) | 2026-11-07 noche | 200 | 0 | 0 | 0 |
+| Giges/ojos (dilema, 3D) | 2026-11-08 noche | <24 h | 0 | 0 | 0 |
+| Lázaro (morbo, 3D) | 2026-11-08 tarde | 804 | 0 | 0 | 0 |
+| Hojas de otoño (ciencia, 3D) | 2026-11-08 mañana | 283 | 0 | 0 | 0 |
+| Asch conformidad (dilema, 3D) | 2026-11-07 noche | 205 | 0 | 0 | 0 |
 | Plaga de baile 1518 (morbo, 3D) | 2026-11-07 tarde | 210 | 0 | 1 | 0 |
-| **Olor de la lluvia / petricor (ciencia, 3D)** | 2026-11-07 mañana | **1.245** (alcance 1.033) | 1 | 1 | 14 likes, 16 interacciones |
+| **Olor de la lluvia / petricor (ciencia, 3D)** | 2026-11-07 mañana | **1.256** (alcance 1.049) | 1 | 1 | 14 likes, 16 interacciones |
 | Carteras perdidas (dilema, 3D) | 2026-11-06 noche | 254 (alcance 214) | 0 | 0 | 0 |
 | Toxoplasma ratón (morbo, 3D) | 2026-11-06 tarde | 216 (alcance 183) | 0 | 0 | 0 |
 | Niebla cucharada (ciencia, 3D) | 2026-11-06 mañana | 123 (alcance 112) | 0 | 0 | 0 |
@@ -88,3 +90,5 @@ Insights de Instagram: disponibles (el token tiene permiso). Muestra: 20+ Reels;
 - 2026-11-07: tras 3 días, los de 11-04 a 11-06 siguen en 123-254 vis.; solo avispa joya (1.325) y Nozick (1.264) y Milgram (1.442) superan 1.000. Sin guardados/compartidos casi nunca: cuello de botella = distribución.
 
 - 2026-11-08 noche: métricas refrescadas (Asch 200, Nozick 1.264, Stanford 161). Hoy DILEMA nº12: Giges + ojos vigilantes (Bateson 2006). Sin cambio de patrón; interacciones ~0.
+
+- 2026-11-09 mañana: métricas: Lázaro (morbo) 804 vis. a 24 h (2.º morbo >700 tras avispa joya), hojas de otoño 283, plaga de baile 210, Asch 205; petricor sigue siendo el mejor de ciencia (1.256, 14 likes). Hoy CIENCIA: estornudo por luz solar (reflejo fótico), gancho-pregunta que interpela + cierre en bucle exacto.
